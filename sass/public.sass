@@ -1,0 +1,52 @@
+$green: #00B092
+$dark-green: #00675A
+$white: #EEE8DE
+$navy: #37424A
+$red: #A70240
+$purple: #B29FA4
+$orange: #EC7A08
+$gray: #C7C2BA
+
+@import partials/masthead
+@import partials/contact
+* 
+  box-sizing: border-box
+
+body
+  font-family: 'DecimaNovaPro'
+  font-size: 16px
+  background: $green
+
+h1
+  color: $green
+  font-family: 'DecimaNovaPro'
+  text-transform: uppercase
+  text-align: center
+  font-size: 20px
+
+h2, h3
+  background-color: $dark-green
+  font-family: "adelle",serif
+  font-style: normal
+  font-weight: 100
+  color: #fff
+  font-size: 18px
+  text-align: center
+  text-transform: uppercase
+  padding: 4px
+
+h3
+  font-weight: 300
+
+a
+  text-transform: uppercase
+  font-family: 'DecimaNovaPro'
+  font-weight: bold
+  text-decoration: none
+  color: $navy
+  &:hover
+    color: $white
+  &:before
+    content: '['
+  &:after
+    content: ']'
