@@ -1,0 +1,2286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"refres",
+				"refreshMessageBadge"
+			],
+			[
+				"message",
+				"message_type"
+			],
+			[
+				"messa",
+				"message_attributes"
+			],
+			[
+				"message_",
+				"message_attributes"
+			],
+			[
+				"messag",
+				"message_type"
+			],
+			[
+				"TYPE",
+				"TYPE_PERSONAL"
+			],
+			[
+				"def",
+				"defaultBackFn"
+			],
+			[
+				"fac",
+				"facebook-color"
+			],
+			[
+				"show",
+				"showVendorAccessWindow"
+			],
+			[
+				"onEvent",
+				"onEventCommunicationCellClick"
+			],
+			[
+				"apprv",
+				"vendor_approved_at"
+			],
+			[
+				"gui",
+				"guide_item"
+			],
+			[
+				"sta",
+				"staff_member"
+			],
+			[
+				"patie",
+				"patient_records"
+			],
+			[
+				"Lib",
+				"LibraryCategory"
+			],
+			[
+				"library",
+				"library_category_id"
+			],
+			[
+				"libra",
+				"library_category"
+			],
+			[
+				"yester",
+				"yesterday_checkins"
+			],
+			[
+				"yeste",
+				"yesterday_checkins"
+			],
+			[
+				"date",
+				"datetime_out"
+			],
+			[
+				"checkin",
+				"checkins_yesterday"
+			],
+			[
+				"face",
+				"facebook_friends_updated_at"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"render",
+				"renderButtons"
+			],
+			[
+				"redi",
+				"redirectTo"
+			],
+			[
+				"auth",
+				"authResponse"
+			],
+			[
+				"emailMan",
+				"emailManagementButton"
+			],
+			[
+				"Beer",
+				"BeerStyles"
+			],
+			[
+				"event_",
+				"event_vendor_items"
+			],
+			[
+				"event_ve",
+				"event_vendor_item"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"onEdi",
+				"onEditableBlur"
+			],
+			[
+				"onEdit",
+				"onEditableKeypress"
+			],
+			[
+				"vendo",
+				"vendor_access"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"contac",
+				"contact_methods"
+			],
+			[
+				"cont",
+				"contact_methods"
+			],
+			[
+				"contact",
+				"contactable"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"whit",
+				"white-space"
+			],
+			[
+				"vendor",
+				"vendor-grid-combo"
+			],
+			[
+				"before",
+				"before_create_set_description"
+			],
+			[
+				"origina",
+				"original_description"
+			],
+			[
+				"ids",
+				"ids_to_keep"
+			],
+			[
+				"contactMet",
+				"contactMethodViews"
+			],
+			[
+				"getCo",
+				"getContactMethod"
+			],
+			[
+				"car",
+				"carouFredSel-6"
+			],
+			[
+				"jque",
+				"jquery"
+			],
+			[
+				"overlay",
+				"overlayElement"
+			],
+			[
+				"overl",
+				"overlayElement"
+			],
+			[
+				"over",
+				"overlayElement"
+			],
+			[
+				"modalWin",
+				"modalWindowElement"
+			],
+			[
+				"popup",
+				"popupWrapper"
+			],
+			[
+				"device",
+				"deviceAvailable"
+			],
+			[
+				"ser",
+				"servingData"
+			],
+			[
+				"Mea",
+				"MealRecord"
+			],
+			[
+				"Atten",
+				"AttendanceOptions"
+			],
+			[
+				"servi",
+				"servingsFound"
+			],
+			[
+				"St",
+				"ServingTime"
+			],
+			[
+				"Serving",
+				"ServingTime1"
+			],
+			[
+				"Serv",
+				"ServingTime1"
+			],
+			[
+				"Meal",
+				"MealPatterns"
+			],
+			[
+				"rese",
+				"resetCurrentReview"
+			],
+			[
+				"return",
+				"returnObj"
+			],
+			[
+				"meal",
+				"mealComponent"
+			],
+			[
+				"star",
+				"startTimeQuestionId"
+			],
+			[
+				"secion",
+				"sectionName"
+			],
+			[
+				"befor",
+				"beforeEach"
+			],
+			[
+				"answer",
+				"answerHash"
+			],
+			[
+				"review",
+				"reviewController"
+			],
+			[
+				"next",
+				"nextReviewDateQuestionId"
+			],
+			[
+				"enco",
+				"encodedValue"
+			],
+			[
+				"en",
+				"encodedValue"
+			],
+			[
+				"actionO",
+				"actionOverlayCanvas"
+			],
+			[
+				"sig",
+				"sigWidth"
+			],
+			[
+				"updated",
+				"updatedQuestions"
+			],
+			[
+				"selecte",
+				"selectedProvider"
+			],
+			[
+				"validat",
+				"validationMessage"
+			],
+			[
+				"valida",
+				"validationMessage"
+			],
+			[
+				"vali",
+				"validationMessage"
+			],
+			[
+				"processing",
+				"processingLabel"
+			],
+			[
+				"process",
+				"processingLabel"
+			],
+			[
+				"shipping",
+				"shippingLabelChecks"
+			],
+			[
+				"shippingL",
+				"shippingLabelCheckInterval"
+			],
+			[
+				"mess",
+				"message-thread"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"annotat",
+				"annotatable_models"
+			],
+			[
+				"primary_c",
+				"primary_company_employee"
+			],
+			[
+				"badge",
+				"badge_authority_company"
+			],
+			[
+				"badge_autho",
+				"badge_authority_company"
+			],
+			[
+				"current_",
+				"current_badge_authority"
+			],
+			[
+				"neigh",
+				"neighborCount"
+			],
+			[
+				"badge_auth",
+				"badge_authority"
+			],
+			[
+				"badge_",
+				"badge_authority_companies"
+			],
+			[
+				"badg",
+				"badge_authority_companies"
+			],
+			[
+				"Badge",
+				"BadgeAuthorityCompany"
+			],
+			[
+				"create",
+				"create_company"
+			],
+			[
+				"badge_authority",
+				"badge_authority_companies"
+			],
+			[
+				"ex",
+				"expires_at"
+			],
+			[
+				"virtual_badge_bad",
+				"virtual_badge_badge_authority_companies"
+			],
+			[
+				"bad",
+				"badge_authority_id"
+			],
+			[
+				"vir",
+				"virtual_badge_badge_authorities"
+			],
+			[
+				"single",
+				"singleselect-color"
+			],
+			[
+				"previous",
+				"previousNavigationItem"
+			],
+			[
+				"guest-",
+				"guest-details-view"
+			],
+			[
+				"guest",
+				"guestList"
+			],
+			[
+				"default",
+				"defaultConfiguration"
+			],
+			[
+				"x-butto",
+				"x-button-facebook"
+			],
+			[
+				"title",
+				"titleBarItems"
+			],
+			[
+				"ROLE_",
+				"ROLE_DOORMAN"
+			],
+			[
+				"ROLE",
+				"ROLE_MANAGER"
+			],
+			[
+				"data-",
+				"data-button-action"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 392,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.haml",
+			"settings":
+			{
+				"buffer_size": 432,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_plugins/bundler.rb",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix",
+				"name": "haml.rb"
+			}
+		},
+		{
+			"file": "test.haml",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix",
+				"name": "test.haml"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"selected_items":
+		[
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"mig",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"migr",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"last mi",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"BeautifyRuby"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"diff c",
+				"Git: Diff Current File"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascrip",
+				"Format: Javascript"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"jav",
+				"Format: Javascript"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"jaa",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"beatu",
+				"BeautifyRuby"
+			],
+			[
+				"rub",
+				"BeautifyRuby"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"b",
+				"BeautifyRuby"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list pak",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bsamson/tenforwardconsulting.github.io/sass/public.sass",
+		"/Users/bsamson/tenforwardconsulting.github.io/sass/test.scss",
+		"/Users/bsamson/tenforwardconsulting.github.io/10fw-public.sublime-project",
+		"/Users/bsamson/tenforwardconsulting.github.io/config.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/css/ios.css",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_messages.sass",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/MessageList.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/Messages.js",
+		"/Users/bsamson/tenant_connect/app/views/messages/new.html.haml",
+		"/Users/bsamson/tenant_connect/app/models/ability.rb",
+		"/Users/bsamson/tenant_connect/app/views/messages/index.html.haml",
+		"/Users/bsamson/tenant_connect/app/views/layouts/application.html.haml",
+		"/Users/bsamson/tenant_connect/app/assets/stylesheets/tenant_connect.scss",
+		"/Users/bsamson/tenant_connect/app/controllers/messages_controller.rb",
+		"/Users/bsamson/tenant_connect/spec/controllers/messages_controller_spec.rb",
+		"/Users/bsamson/tenant_connect/spec/factories/message.rb",
+		"/Users/bsamson/tenant_connect/Gemfile",
+		"/Users/bsamson/tenant_connect/app/models/message.rb",
+		"/Users/bsamson/tenant_connect/spec/spec_helper.rb",
+		"/Users/bsamson/tenant_connect/config/high_five.rb",
+		"/Users/bsamson/tenant_connect/spec/factories/users.rb",
+		"/Users/bsamson/tenant_connect/app/models/user.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_buttons.scss",
+		"/Users/bsamson/tenant_connect/app/controllers/checkins_controller.rb",
+		"/Users/bsamson/tenant_connect/app/controllers/packages_controller.rb",
+		"/Users/bsamson/tenant_connect/app/views/messages/show.html.haml",
+		"/Users/bsamson/tenant_connect/db/migrate/20131103212739_message_subjects.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/ios.sass",
+		"/Users/bsamson/tenant_connect/app/views/buildings/ios-color-override.sass.erb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/_base.sass",
+		"/Users/bsamson/tenant_connect/app/controllers/buildings_controller.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/model/Message.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/controller/Guest.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_overrides.scss",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/GuestForm.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/controller/Home.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/MessageDetails.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/controller/Messages.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/lib/TenForward/SwipeBackPlugin.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/config/high_five/app-common.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/controller/Building.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_building.sass",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/Building.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/Amenities.js",
+		"/Users/bsamson/tenant_connect/public/m/app.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_guest_list.scss",
+		"/Users/bsamson/tenant_connect/public/TCMobile/touch/resources/themes/stylesheets/sencha-touch/base/mixins/_Class.scss",
+		"/Users/bsamson/Desktop/sencha-icons.txt",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/Visitors.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/GuestList.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_guest_form.sass",
+		"/Users/bsamson/tenant_connect/my_doorman.sublime-project",
+		"/Users/bsamson/tenant_connect/public/TCMobile/config/phonegap.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/config/development.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/config/high_five/app-web.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_fonts.scss",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/Main.js",
+		"/Users/bsamson/tenant_connect/app/assets/javascripts/buildings.js",
+		"/Users/bsamson/tenant_connect/app/models/building.rb",
+		"/Users/bsamson/tenant_connect/db/migrate/20131025201905_building_amenities.rb",
+		"/Users/bsamson/tenant_connect/app/views/buildings/_form.html.haml",
+		"/Users/bsamson/tenant_connect/app/views/users/current.json.jbuilder",
+		"/Users/bsamson/tenant_connect/app/helpers/application_helper.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/fonts/asdf",
+		"/Users/bsamson/tenant_connect/db/migrate/20131018185412_add_building_images.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/view/Login.js",
+		"/Users/bsamson/tenant_connect/config/environments/development.rb",
+		"/Users/bsamson/tenant_connect/app/controllers/users_controller.rb",
+		"/Users/bsamson/tenant_connect/public/TCMobile/app/model/User.js",
+		"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base/_login.scss",
+		"/Users/bsamson/tenant_connect/app/controllers/guests_controller.rb",
+		"/Users/bsamson/tenant_connect/config/environments/production.rb",
+		"/Users/bsamson/tenant_connect/public/m/app/view/Login.js",
+		"/Users/bsamson/festbuddy-rails/app/controllers/export_controller.rb",
+		"/Users/bsamson/festbuddy-rails/app/controllers/export_sweeper.rb",
+		"/Users/bsamson/festbuddy-rails/app/assets/javascripts/admin/app/view/Main.js",
+		"/Users/bsamson/festbuddy-rails/app/models/event_vendor.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/helpers/application_helpers.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/models/form.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/templates/spotlight/show.handlebars",
+		"/Users/bsamson/wellbe-refactor/vendor/assets/ember/development/ember-data.js",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/controllers/spotlight_show_controller.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/controllers/spotlight_controller.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/routes/spotlight_index_route.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/models/guide_item.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/views/form_view.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/templates/form.handlebars",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/controllers/form_controller.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/controllers/wellbe_patient/forms_controller.rb",
+		"/Users/bsamson/wellbe-refactor/app/serializers/patient_form_serializer.rb",
+		"/Users/bsamson/wellbe-refactor/lib/tasks/db_10fw_data.rake",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/templates/questions/text_field.handlebars",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/models/question.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/store.js.coffee",
+		"/Users/bsamson/wellbe-refactor/config/routes.rb",
+		"/Users/bsamson/wellbe-refactor/app/controllers/wellbe_patient/guide_items_controller.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/models/guide_item.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/routes/spotlight_route.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/router.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/controllers/guide_items_controller.rb",
+		"/Users/bsamson/wellbe-refactor/tmp/ember-rails/ember-data.js",
+		"/Users/bsamson/wellbe-refactor/app/serializers/question_serializer.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/templates/form/text.handlebars",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/templates/appointments.handlebars",
+		"/Users/bsamson/wellbe-refactor/app/models/wizard.rb",
+		"/Users/bsamson/wellbe-refactor/app/models/form.rb",
+		"/Users/bsamson/wellbe-refactor/app/models/wizard_completion.rb",
+		"/Users/bsamson/wellbe-refactor/app/helpers/carepath_form_helper.rb",
+		"/Users/bsamson/wellbe-refactor/app/controllers/wellbe_patient/wizards_controller.rb",
+		"/Users/bsamson/wellbe-refactor/app/serializers/patient_form.rb",
+		"/Users/bsamson/wellbe-refactor/app/serializers/patient_guide_item_serializer.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/controllers/forms_controller.js.coffee",
+		"/Users/bsamson/wellbe-refactor/db/migrate/20131008183448_add_scheduled_at_to_patient_event.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/stylesheets/wellbe_patient/_appointments.sass",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/models/appointment.js.coffee",
+		"/Users/bsamson/wellbe-refactor/app/serializers/patient_event_serializer.rb",
+		"/Users/bsamson/wellbe-refactor/app/views/layouts/patient_application.html.erb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/templates/application.handlebars",
+		"/Users/bsamson/wellbe-refactor/db/migrate/20130930021458_create_patient_events_table.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/application.js",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient/wellbe_patient.js.coffee",
+		"/Users/bsamson/wellbe-refactor/test/controllers/application_controller_test.rb",
+		"/Users/bsamson/wellbe-refactor/config/environments/test.rb",
+		"/Users/bsamson/wellbe-refactor/app/assets/stylesheets/wellbe_patient/_spotlight.sass",
+		"/Users/bsamson/wellbe-refactor/app/assets/javascripts/comfortable_mexican_sofa/admin/application.js",
+		"/Users/bsamson/wellbe-refactor/app/assets/stylesheets/application.css.scss",
+		"/Users/bsamson/wellbe-refactor/config/environments/development.rb"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/bsamson/tenant_connect/public/TCMobile",
+			"",
+			"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base",
+			"/Users/bsamson/tenant_connect/public/TCMobile/",
+			"/Users/bsamson/tenant_connect/public/TCMobile/touch/resources/themes/stylesheets/sencha-touch/base",
+			"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass",
+			"",
+			"/Users/bsamson/tenant_connect/public/TCMobile/resources/sass/base",
+			"/Users/bsamson/tenant_connect/public/TCMobile",
+			"/Users/bsamson/tenant_connect",
+			"",
+			"/Users/bsamson/wellbe-refactor/app/assets/javascripts/wellbe_patient",
+			"",
+			"/Users/bsamson/wellbe-refactor/db/migrate",
+			"",
+			"/Users/bsamson/wellbe-refactor/features",
+			"/Users/bsamson/wellbe-refactor/test",
+			"/Users/bsamson/wellbe-refactor/test/factories",
+			"",
+			"/Users/bsamson/wellbe-refactor/app/models",
+			"/Users/bsamson/wellbe-refactor/app/controllers",
+			"",
+			"/Users/bsamson/tenant_connect/public",
+			"",
+			"/Users/bsamson/tenant_connect/public/TCMobile/app",
+			"/Users/bsamson/tenant_connect",
+			"/Users/bsamson/tenant_connect/app",
+			"/Users/bsamson/tenant_connect",
+			"/Users/bsamson/tenant_connect/public",
+			"/Users/bsamson/tenant_connect/",
+			"/Users/bsamson/tenant_connect/public/TCMobile",
+			"",
+			"/Users/bsamson/festbuddy-rails/app/views",
+			"/Users/bsamson/festbuddy-rails/spec",
+			"/Users/bsamson/festbuddy-rails/app/controllers",
+			"/Users/bsamson/festbuddy-rails/app/views/contacts",
+			"",
+			"/Users/bsamson/festbuddy-rails/db",
+			"",
+			"/Users/bsamson/festbuddy-rails/vendor/assets/stylesheets",
+			"",
+			"/Users/bsamson/account_assistant/assets/javascripts/app",
+			"/Users/bsamson/account_assistant/assets/javascripts",
+			"/Users/bsamson/account_assistant/assets/javascripts/app",
+			"/Users/bsamson/account_assistant/assets/javascripts",
+			"/Users/bsamson/account_assistant/assets/javascripts/app",
+			"/Users/bsamson/account_assistant/assets/javascripts",
+			"",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"",
+			"/Users/bsamson/hx2go-client/",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/app/model",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client",
+			"",
+			".updated",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client/app",
+			"",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client/ux",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app/controller",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/hx2go-client/app",
+			"/Users/bsamson/hx2go-client",
+			"/Users/bsamson/threadflip/app/assets",
+			"/Users/bsamson/threadflip/app",
+			"/Users/bsamson/threadflip/app/assets/javascripts/dashboard",
+			"/Users/bsamson/threadflip/app",
+			"/Users/bsamson/threadflip/app/assets/stylesheets/dashboard",
+			"/Users/bsamson/pumpitup/app",
+			"/Users/bsamson/pumpitup/app/controller",
+			"/Users/bsamson/pumpitup/app",
+			"/Users/bsamson/threadflip/app/assets/javascripts/dashboard/views",
+			"/Users/bsamson/threadflip/app/assets/javascripts",
+			"/Users/bsamson/threadflip/app/assets/javascripts/dashboard",
+			"/Users/bsamson/threadflip/app/assets/javascripts/dashboard/templates",
+			"/Users/bsamson/Trackerapp-dev/tracker/spec",
+			"/Users/bsamson/Trackerapp-dev/tracker/spec/factories",
+			"/Users/bsamson/Trackerapp-dev/tracker/vendor/engines/virtual_badge",
+			"/Users/bsamson/Trackerapp-dev/tracker/app",
+			"/Users/bsamson/Trackerapp-dev/tracker/vendor/engines/virtual_badge",
+			"/Users/bsamson/Trackerapp-dev/tracker/app/assets",
+			"/Users/bsamson/Trackerapp-dev/tracker/app",
+			"/Users/bsamson/Trackerapp-dev/tracker/app/models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"checkedIn",
+			"airship",
+			"badge",
+			"\nbadge",
+			"badge",
+			"spork",
+			".subject",
+			"message_type",
+			"badge",
+			"loadCurrent",
+			"facebookInvite",
+			"currentView",
+			";\n",
+			"checkedIn",
+			"icon-cha",
+			"icon",
+			".x-title",
+			"HighFive.Settings",
+			"api",
+			"TCMobile.Configuration",
+			"font-family",
+			"@font",
+			"$",
+			"^-",
+			"image",
+			".at",
+			"jbuild",
+			"building.",
+			"paperclip",
+			"CACHE_EXP",
+			"vendoraccee",
+			"fuckyou",
+			"ActiveModelS",
+			"guide_item_id",
+			"RESTAdapter",
+			"RestAdap",
+			"DS.Acti",
+			"serializeHasMany",
+			"hasMany",
+			"commentIds",
+			"comments",
+			"element_type",
+			"invalid guideable",
+			"invalid guidable",
+			"patient_wizards",
+			"patient_wizard",
+			"patient_events",
+			"fullscreen",
+			"modal",
+			"fullscreen-modal",
+			"redirect_url",
+			"default_host",
+			"test.host",
+			"support",
+			"rolify",
+			"staff_members",
+			"I am logged in",
+			"shared_login",
+			"I am logged in",
+			"I am logged",
+			"password",
+			":new_admin",
+			"new_admin",
+			":admin",
+			"invited_",
+			"invited_patient",
+			"<<<",
+			".new_user",
+			"form_care",
+			"build(:patient",
+			"create(:patient",
+			"create(:staff_member",
+			"build(:staff_member",
+			"create(:staff_member",
+			":staff_member",
+			"@cc",
+			"build(:care_circle",
+			"create(:care_circle",
+			"(:care_circle",
+			":care_circle",
+			"staff_records",
+			"patient_records",
+			".staff_records",
+			"staff_records",
+			"\"m",
+			"(:care_circle)",
+			"role",
+			"permission",
+			"test.host",
+			"invite_to_care_circle",
+			"each",
+			"rspec",
+			"eq ",
+			" eq ",
+			"staff_new_user",
+			".create(:staff_member",
+			":staff_member",
+			"staff_member_new_user",
+			":random",
+			"doctor",
+			"role",
+			"i sign in as a wellbe",
+			"superadmin",
+			"be_able_to",
+			"superadmin",
+			"be_able_to",
+			"rspec",
+			"superadmin",
+			"eligible_unassigned",
+			"eligible_unassinged",
+			"eligible_unassigned_library_filings",
+			"guidable_page_id",
+			".site",
+			"identifier",
+			"rspec",
+			"debugInfo",
+			"RegisteredGuests",
+			"guests/registered",
+			"removeBuilding",
+			"sort-link",
+			"page-link",
+			"live",
+			"jquery",
+			"count",
+			"checkin.room",
+			"building.stats_hash",
+			"/users",
+			".save"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"</li>",
+			"<li>",
+			"self",
+			"../multiland/",
+			"<%= image_tag \"multiland/\\1\" %>",
+			"<%= image_tag \"multiland/\\2\" %>",
+			"<%= image_tag \"multiland/\\1\" %>",
+			"answer",
+			"child",
+			"review",
+			":",
+			"review",
+			"this",
+			"question",
+			"font-size: 14px",
+			"font-size: 15px",
+			"font-size: 16px",
+			"time",
+			"FactoryGirl."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/bsamson/.rvm/rubies/ruby-1.9.3-p392/bin/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/bsamson/.rvm/rubies/ruby-1.9.3-p392/bin/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.haml",
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/bsamson/.rvm/rubies/ruby-1.9.3-p392/bin/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_plugins/bundler.rb",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "haml.rb",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/bsamson/.rvm/rubies/ruby-1.9.3-p392/bin/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test.haml",
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "test.haml",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "/Users/bsamson/.rvm/rubies/ruby-1.9.3-p392/bin/ruby"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"guestlist",
+				"public/TCMobile/app/view/GuestList.js"
+			],
+			[
+				"messagelist",
+				"public/TCMobile/app/view/MessageList.js"
+			],
+			[
+				"messajs",
+				"public/TCMobile/app/view/Messages.js"
+			],
+			[
+				"messagesass",
+				"public/TCMobile/resources/sass/base/_messages.sass"
+			],
+			[
+				"pullre",
+				"public/TCMobile/touch/src/plugin/PullRefresh.js"
+			],
+			[
+				"app.js",
+				"public/TCMobile/app.js"
+			],
+			[
+				"home",
+				"public/TCMobile/app/controller/Home.js"
+			],
+			[
+				"home.js",
+				"public/TCMobile/app/controller/Home.js"
+			],
+			[
+				"messjs",
+				"public/TCMobile/app/controller/Messages.js"
+			],
+			[
+				"high",
+				"config/high_five.rb"
+			],
+			[
+				"spec_h",
+				"spec/spec_helper.rb"
+			],
+			[
+				"message",
+				"app/models/message.rb"
+			],
+			[
+				"message_",
+				"app/controllers/messages_controller.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"user",
+				"spec/factories/users.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"messagenew",
+				"app/views/messages/new.html.haml"
+			],
+			[
+				"applicationh",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"messainde",
+				"app/views/messages/index.html.haml"
+			],
+			[
+				"ability",
+				"app/models/ability.rb"
+			],
+			[
+				"messaindex",
+				"app/views/messages/index.html.haml"
+			],
+			[
+				"message.js",
+				"public/TCMobile/app/model/Message.js"
+			],
+			[
+				"buildingscon",
+				"app/controllers/buildings_controller.rb"
+			],
+			[
+				"buttons",
+				"public/TCMobile/resources/sass/base/_buttons.scss"
+			],
+			[
+				"iosov",
+				"app/views/buildings/ios-color-override.sass.erb"
+			],
+			[
+				"ios",
+				"public/TCMobile/resources/sass/ios.sass"
+			],
+			[
+				"messsass",
+				"public/TCMobile/resources/sass/base/_messages.sass"
+			],
+			[
+				"messa",
+				"app/controllers/messages_controller.rb"
+			],
+			[
+				"message.rb",
+				"app/models/message.rb"
+			],
+			[
+				"messalist",
+				"public/TCMobile/app/view/MessageList.js"
+			],
+			[
+				"amen",
+				"public/TCMobile/app/view/Amenities.js"
+			],
+			[
+				"building.js",
+				"public/TCMobile/app/view/Building.js"
+			],
+			[
+				"base",
+				"public/TCMobile/resources/sass/_base.sass"
+			],
+			[
+				"buildingsass",
+				"public/TCMobile/resources/sass/base/_building.sass"
+			],
+			[
+				"messagede",
+				"public/TCMobile/app/view/MessageDetails.js"
+			],
+			[
+				"messagesas",
+				"public/TCMobile/resources/sass/base/_messages.sass"
+			],
+			[
+				"guestsas",
+				"public/TCMobile/resources/sass/base/_guest_form.sass"
+			],
+			[
+				"sublime",
+				"my_doorman.sublime-project"
+			],
+			[
+				"buildingjs",
+				"public/TCMobile/app/view/Building.js"
+			],
+			[
+				"buildin.js",
+				"app/assets/javascripts/buildings.js"
+			],
+			[
+				"main",
+				"public/TCMobile/app/view/Main.js"
+			],
+			[
+				"font",
+				"public/TCMobile/resources/sass/base/_fonts.scss"
+			],
+			[
+				"curre",
+				"app/views/users/current.json.jbuilder"
+			],
+			[
+				"curren",
+				"app/views/users/current.json.jbuilder"
+			],
+			[
+				"building",
+				"app/models/building.rb"
+			],
+			[
+				"buildingcon",
+				"app/controllers/buildings_controller.rb"
+			],
+			[
+				"buildingfor",
+				"app/views/buildings/_form.html.haml"
+			],
+			[
+				"sass",
+				"public/TCMobile/resources/sass/_base.sass"
+			],
+			[
+				"ameni",
+				"public/TCMobile/app/view/Amenities.js"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"buidsass",
+				"public/TCMobile/resources/sass/base/_building.sass"
+			],
+			[
+				"beta",
+				"config/environments/beta.rb"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"buildform",
+				"app/views/buildings/_form.html.haml"
+			],
+			[
+				"s3.yml",
+				"config/s3.yml"
+			],
+			[
+				"basesass",
+				"public/TCMobile/resources/sass/_base.sass"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"build",
+				"app/models/building.rb"
+			],
+			[
+				"buildinjs",
+				"public/TCMobile/app/view/Building.js"
+			],
+			[
+				"jbuilder",
+				"app/views/users/current.json.jbuilder"
+			],
+			[
+				"user.js",
+				"public/TCMobile/app/model/User.js"
+			],
+			[
+				"userjs",
+				"public/TCMobile/app/model/User.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"building.",
+				"app/models/building.rb"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"developmen",
+				"config/environments/development.rb"
+			],
+			[
+				"addbuild",
+				"db/migrate/20131018185412_add_building_images.rb"
+			],
+			[
+				"login",
+				"public/TCMobile/app/view/Login.js"
+			],
+			[
+				"guestscont",
+				"app/controllers/guests_controller.rb"
+			],
+			[
+				"exportcon",
+				"app/controllers/export_controller.rb"
+			],
+			[
+				"main.js",
+				"app/assets/javascripts/admin/app/view/Main.js"
+			],
+			[
+				"event_vendor",
+				"app/models/event_vendor.rb"
+			],
+			[
+				"modeleventvendor",
+				"app/assets/javascripts/admin/app/model/EventVendor.js"
+			],
+			[
+				"formcoff",
+				"app/assets/javascripts/wellbe_patient/models/form.js.coffee"
+			],
+			[
+				"helperjs",
+				"app/assets/javascripts/wellbe_patient/helpers/application_helpers.js.coffee"
+			],
+			[
+				"formcoffee",
+				"app/assets/javascripts/wellbe_patient/models/form.js.coffee"
+			],
+			[
+				"storecof",
+				"app/assets/javascripts/wellbe_patient/store.js.coffee"
+			],
+			[
+				"ember-data",
+				"vendor/assets/ember/development/ember-data.js"
+			],
+			[
+				"formseri",
+				"app/serializers/patient_form_serializer.rb"
+			],
+			[
+				"formcont",
+				"app/controllers/wellbe_patient/forms_controller.rb"
+			],
+			[
+				"formhandl",
+				"app/assets/javascripts/wellbe_patient/templates/form.handlebars"
+			],
+			[
+				"showhandl",
+				"app/assets/javascripts/wellbe_patient/templates/spotlight/show.handlebars"
+			],
+			[
+				"guide_item",
+				"app/models/guide_item.rb"
+			],
+			[
+				"guideitecont",
+				"app/controllers/wellbe_patient/guide_items_controller.rb"
+			],
+			[
+				"spotlight",
+				"app/assets/javascripts/wellbe_patient/controllers/spotlight_controller.js.coffee"
+			],
+			[
+				"guideitemcoff",
+				"app/assets/javascripts/wellbe_patient/models/guide_item.js.coffee"
+			],
+			[
+				"spotlightinde",
+				"app/assets/javascripts/wellbe_patient/routes/spotlight_index_route.js.coffee"
+			],
+			[
+				"guiditcon",
+				"app/controllers/wellbe_patient/guide_items_controller.rb"
+			],
+			[
+				"guideitems",
+				"app/controllers/guide_items_controller.rb"
+			],
+			[
+				"store",
+				"app/assets/javascripts/wellbe_patient/store.js.coffee"
+			],
+			[
+				"emberd",
+				"tmp/ember-rails/ember-data.js"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"formser",
+				"app/serializers/patient_form_serializer.rb"
+			],
+			[
+				"formjsco",
+				"app/assets/javascripts/wellbe_patient/models/form.js.coffee"
+			],
+			[
+				"question",
+				"app/assets/javascripts/wellbe_patient/models/question.js.coffee"
+			],
+			[
+				"patientserli",
+				"app/serializers/patient_form_serializer.rb"
+			],
+			[
+				"questionjs",
+				"app/assets/javascripts/wellbe_patient/models/question.js.coffee"
+			],
+			[
+				"formjs",
+				"app/assets/javascripts/wellbe_patient/models/form.js.coffee"
+			],
+			[
+				"formjsc",
+				"app/assets/javascripts/wellbe_patient/models/form.js.coffee"
+			],
+			[
+				"patiformse",
+				"app/serializers/patient_form_serializer.rb"
+			],
+			[
+				"10fw",
+				"lib/tasks/db_10fw_data.rake"
+			],
+			[
+				"serliform",
+				"app/serializers/patient_form_serializer.rb"
+			],
+			[
+				"viewform",
+				"app/assets/javascripts/wellbe_patient/views/form_view.js.coffee"
+			],
+			[
+				"form.han",
+				"app/assets/javascripts/wellbe_patient/templates/form.handlebars"
+			],
+			[
+				"viewformcoff",
+				"app/assets/javascripts/wellbe_patient/views/form_view.js.coffee"
+			],
+			[
+				"patientform",
+				"app/serializers/patient_form.rb"
+			],
+			[
+				"patientformcon",
+				"app/controllers/wellbe_patient/forms_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"guideitemjsco",
+				"app/assets/javascripts/wellbe_patient/models/guide_item.js.coffee"
+			],
+			[
+				"spotlightshow",
+				"app/assets/javascripts/wellbe_patient/templates/spotlight/show.handlebars"
+			],
+			[
+				"guideit",
+				"app/models/guide_item.rb"
+			],
+			[
+				"form",
+				"app/controllers/wellbe_patient/forms_controller.rb"
+			],
+			[
+				"wizarcon",
+				"app/controllers/wellbe_patient/wizards_controller.rb"
+			],
+			[
+				"carepath_",
+				"app/helpers/carepath_form_helper.rb"
+			],
+			[
+				"wizardcompltion",
+				"app/models/wizard_completion.rb"
+			],
+			[
+				"wizar",
+				"app/models/wizard.rb"
+			],
+			[
+				"patientapp",
+				"app/views/layouts/patient_application.html.erb"
+			],
+			[
+				"applichand",
+				"app/assets/javascripts/wellbe_patient/templates/application.handlebars"
+			],
+			[
+				"create_patientevent",
+				"db/migrate/20130930021458_create_patient_events_table.rb"
+			],
+			[
+				"applichtml",
+				"app/views/layouts/patient_application.html.erb"
+			],
+			[
+				"wellb",
+				"app/assets/javascripts/wellbe_patient/wellbe_patient.js.coffee"
+			],
+			[
+				"evensel",
+				"app/serializers/patient_event_serializer.rb"
+			],
+			[
+				"appinjs",
+				"app/assets/javascripts/wellbe_patient/models/appointment.js.coffee"
+			],
+			[
+				"appoinsass",
+				"app/assets/stylesheets/wellbe_patient/_appointments.sass"
+			],
+			[
+				"appoinhan",
+				"app/assets/javascripts/wellbe_patient/templates/appointments.handlebars"
+			],
+			[
+				"eventser",
+				"app/serializers/patient_event_serializer.rb"
+			],
+			[
+				"apphandl",
+				"app/assets/javascripts/wellbe_patient/templates/application.handlebars"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true
+}
