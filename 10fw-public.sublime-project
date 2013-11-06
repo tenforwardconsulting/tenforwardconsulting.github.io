@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/bsamson/tenforwardconsulting.github.io",
+      "folder_exclude_patterns": [".sass-cache"]
+		}
+	]
+}
