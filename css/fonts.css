@@ -1,0 +1,27 @@
+/* @license
+ * MyFonts Webfont Build ID 2637568, 2013-09-05T14:13:05-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Decima Nova Pro by TipografiaRamis
+ * URL: http://www.myfonts.com/fonts/tipografiaramis/decima-nova-pro/regular/
+ * Copyright: Copyright (c) 2011 by Ramiz Guseynov. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2637568
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/283f00");
+
+  
+@font-face {font-family: 'DecimaNovaPro';src: url('webfonts/283F00_0_0.eot');src: url('webfonts/283F00_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/283F00_0_0.woff') format('woff'),url('webfonts/283F00_0_0.ttf') format('truetype');}
+ 
