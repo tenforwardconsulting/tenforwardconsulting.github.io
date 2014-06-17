@@ -5,7 +5,6 @@ exclude:
  - Gemfile
  - Gemfile.lock
  - README.md
- - CNAME
  - .sass-cache
  - Rakefile
  - 10fw-public.*
