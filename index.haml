@@ -5,6 +5,7 @@
   %head
     %meta{content: "text/html; charset=utf-8", "http-equiv" => "Content-Type"}/
     %title Ten Forward Consulting
+    %meta{name: 'description', content: "Ten Forward Consulting's expert team provides agile web and mobile consulting and development to startups, Fortune 500s and everyone in between."}
     %link{href: "css/fonts.css", rel: "stylesheet", type: "text/css"}
     %link{href: "css/reset.css", rel: "stylesheet", type: "text/css"}
     %link{href: "css/public.css", rel: "stylesheet", type: "text/css"}
@@ -12,6 +13,8 @@
     :javascript 
       try{Typekit.load();}catch(e){}
   %body
+    .description{style: "display: none"}
+      Ten Forward Consulting's expert team provides agile web and mobile consulting and development to startups, Fortune 500s and everyone in between. 
     .masthead
       .banner
       .logo
@@ -20,3 +23,9 @@
     .contact
       %a{href: 'mailto:info@tenforwardconsulting.com'} info@tenforwardconsulting.com
       %a{href: 'tel:6086205104'} 608.620.5104
+    .headline
+      Things are only impossible
+      %br
+      until they're not.
+      .sub
+        Our experts bring your vision to life through iterative software development focusing on usability, quality, and efficiency.
