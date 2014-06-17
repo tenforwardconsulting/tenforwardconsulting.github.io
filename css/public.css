@@ -125,14 +125,15 @@ a:after {
 .headline {
   font-family: "DecimaNovaPro";
   color: white;
-  margin-top: 32px;
+  margin: 32px auto;
   font-size: 72px;
   text-align: center;
   line-height: 76px;
+  max-width: 800px;
 }
-/* line 62, ../sass/public.sass */
+/* line 63, ../sass/public.sass */
 .headline .sub {
-  font-size: 18px;
-  margin: 18px;
+  font-size: 20px;
+  margin-top: 18px;
   line-height: 1.4;
 }
