@@ -46,7 +46,12 @@
   color: #00b092;
 }
 
-/* line 3, ../sass/partials/_contact.sass */
+/* line 2, ../sass/partials/_contact.sass */
+.contact {
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 4, ../sass/partials/_contact.sass */
 .contact a {
   float: right;
   clear: both;
@@ -65,9 +70,10 @@ body {
   font-family: "DecimaNovaPro";
   font-size: 16px;
   background: #00b092;
+  line-height: 1.4;
 }
 
-/* line 20, ../sass/public.sass */
+/* line 21, ../sass/public.sass */
 h1 {
   color: #00b092;
   font-family: "DecimaNovaPro";
@@ -76,7 +82,7 @@ h1 {
   font-size: 20px;
 }
 
-/* line 27, ../sass/public.sass */
+/* line 28, ../sass/public.sass */
 h2, h3 {
   background-color: #00675a;
   font-family: "adelle", serif;
@@ -89,12 +95,12 @@ h2, h3 {
   padding: 4px;
 }
 
-/* line 38, ../sass/public.sass */
+/* line 39, ../sass/public.sass */
 h3 {
   font-weight: 300;
 }
 
-/* line 41, ../sass/public.sass */
+/* line 42, ../sass/public.sass */
 a {
   text-transform: uppercase;
   font-family: "DecimaNovaPro";
@@ -102,15 +108,31 @@ a {
   text-decoration: none;
   color: #37424a;
 }
-/* line 47, ../sass/public.sass */
+/* line 48, ../sass/public.sass */
 a:hover {
   color: #eee8de;
 }
-/* line 49, ../sass/public.sass */
+/* line 50, ../sass/public.sass */
 a:before {
   content: "[";
 }
-/* line 51, ../sass/public.sass */
+/* line 52, ../sass/public.sass */
 a:after {
   content: "]";
+}
+
+/* line 55, ../sass/public.sass */
+.headline {
+  font-family: "DecimaNovaPro";
+  color: white;
+  margin-top: 32px;
+  font-size: 72px;
+  text-align: center;
+  line-height: 76px;
+}
+/* line 62, ../sass/public.sass */
+.headline .sub {
+  font-size: 18px;
+  margin: 18px;
+  line-height: 1.4;
 }
