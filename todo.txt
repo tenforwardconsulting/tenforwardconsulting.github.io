@@ -1,0 +1,27 @@
+In 2nd section:
+  Need better quote
+
+In Clients
+  Need quote? Not sure if the one under feedback is real
+  Need past client logos
+  Need future mission statement thingy
+
+In Work
+  Need past client logos
+  Need to make thing clickable and open a thing
+
+In Whatever you need, we'll make it so
+  Need hipster B&W photo taken from above of all of us standing in a circle looking like we're discussing something very important
+
+In About
+  Need 6 photos
+  Need employee bios
+  Need to make clicking a button show a bio
+
+In Testimonials
+  Need real testimonials
+
+In Contact section
+  Make send button do something
+
+Probably need to make parts more responsive

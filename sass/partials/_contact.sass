@@ -1,5 +1,4 @@
-@import compass
-.contact
+.contact-info
   +clearfix
   a
     float: right
@@ -7,3 +6,53 @@
     margin-top: 8px
     margin-right: 8px
     text-transform: lowercase
+
+.contact-us
+  padding: 60px 80px
+  color: $dark-gray
+
+  .section-heading
+    color: $dark-gray
+  .separator
+    border-color: $dark-gray
+
+  form
+    .left, .right
+      height: 208px
+
+    .left
+      float: left
+    .right
+      float: right
+
+    label
+      display: block
+      font-weight: bold
+      text-transform: uppercase
+      margin-bottom: 4px
+
+    input
+      background-color: $dark-gray
+      color: white
+
+    #name, #email
+      width: 360px
+      height: 45px
+
+    #name
+      margin-bottom: 30px
+
+    #message
+      width: 415px
+      height: 180px
+
+    input[type=submit]
+      clear: both
+      display: block
+      font-family: $sans-serif
+      font-weight: bold
+      height: 45px
+      letter-spacing: 1px
+      line-height: 45px
+      text-transform: uppercase
+      width: 150px
