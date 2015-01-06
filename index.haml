@@ -12,22 +12,162 @@
 
   %body
     .description{style: "display: none"}
-      Ten Forward Consulting's expert team provides agile web and mobile consulting and development to startups, Fortune 500s and everyone in between. 
+      Ten Forward Consulting's expert team provides agile web and mobile consulting and development to startups, Fortune 500s and everyone in between.
+
     .masthead
       .banner
       .logo
       .title Ten Forward
       .subtitle Consulting
-    .contact
+
+    .contact-info
       %a{href: 'mailto:info@tenforwardconsulting.com'} info@tenforwardconsulting.com
       %a{href: 'tel:6086205104'} 608.620.5104
+
     .headline
       Things are only impossible
       until they're not.
       .sub
         Our experts bring your vision to life through high quality web and mobile applications
-        focused on your users' experience and your business's goals. 
+        focused on your users' experience and your business's goals.
+
+    .clients
+      .section-heading Clients
+      .separator
+      .past
+        .sub-heading Past
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+      .future
+        .sub-heading Future
+        Organic readymade McSweeney's pork belly, adipisicing cupidatat 8-bit assumenda irony Godard slow-carb Wes Anderson odio. PBR aliqua iPhone, plaid aliquip laboris semiotics voluptate biodiesel tilde YOLO. Sint selfies mollit kale chips.
+      .feedback
+        .sub-heading Feedback
+        .quote "Brian and his team gave us peace of mind and a great app..."
+        .quoted Paul Sansbury, United Airlines
+
+    .long-haul
+      .title We're here for the
+      .supertitle Long Haul.
+      .subtext After all, we've made it through Wisconsin winters.
+
+    .our-work
+      .section-heading Work
+      .separator
+      .logos
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+        .logo
+
+    .make-it-so
+      .title Whatever you need, we'll
+      .supertitle Make It So.
+      .subtext Your project is in good hands.
+
+    .about
+      .section-heading About
+      .separator
+      .services
+        .sub-heading Services
+        %span.intro What can't we do for you?
+        Ea vegan put a bird on it authentic Schlitz, messenger bag excepteur. Chillwave magna irony, Helvetica roof party 90's consectetur cupidatat Odd Future American Apparel. Paleo whatever vero photo booth, et distillery culpa kogi art party duis DIY.
+        .images
+          .image-wrapper
+            .image
+            .subtext Consulting
+          .image-wrapper
+            .image
+            .subtext Development
+          .image-wrapper
+            .image
+            .subtext Support
+      .process
+        .sub-heading Process
+        %span.intro You may have worked with other developers in the past, or this may be your first project.
+        Whatever the case, we marfa leggings keytar commodo, 90's butcher consectetur qui esse aesthetic Pinterest tote bag XOXO raw denim master cleanse. Drinking vinegar nulla wayfarers, nesciunt messenger bag McSweeney's put a bird on it fugiat organic sint skateboard quinoa readymade distillery cliche. Lo-fi Banksy vinyl freegan Austin.
+        .images
+          .image-wrapper
+            .image
+          .image-wrapper
+            .image
+          .image-wrapper
+            .image
+      .team
+        .sub-heading Team
+        .bio-button Brian Samson
+        .bio-button Brett Samson
+        .bio-button Kyle Hanstad
+        .bio-button Zach Boatrite
+        .bio-button Sophia Allen
+
+    .testimonials
+      .section-heading Testimonials
+      .separator
+
+      .testimonial
+        "I can't say enough good things about Brian and his team. Consequat officia artisan Wes Anderson. Authentic commodo mustache ad roof party pour-over. Nihil sunt gentrify 3 wolf moon you probably haven't heard of them"
+        .quoted
+          Ron Johnson
+          %span.business / Burger King
+
+      .testimonial
+        "I can't say enough good things about Brian and his team. Consequat officia artisan Wes Anderson. Authentic commodo mustache ad roof party pour-over. Nihil sunt gentrify 3 wolf moon you probably haven't heard of them"
+        .quoted
+          Anna Nixon
+          %span.business / Morgan Stanley
+
+      .testimonial
+        "I can't say enough good things about Brian and his team. Consequat officia artisan Wes Anderson. Authentic commodo mustache ad roof party pour-over. Nihil sunt gentrify 3 wolf moon you probably haven't heard of them"
+        .quoted
+          Jack Raider
+          %span.business / Cuna Mutual
+
+      .testimonial
+        "I can't say enough good things about Brian and his team. Consequat officia artisan Wes Anderson. Authentic commodo mustache ad roof party pour-over. Nihil sunt gentrify 3 wolf moon you probably haven't heard of them"
+        .quoted
+          Derek Herzog
+          %span.business / Madison Gas &amp; Electric
+
+    .contact-us
+      .section-heading Contact
+      .separator
+      %form
+        .left
+          .field
+            %label{for: 'name'} Name
+            %input#name{type: 'text', name: 'name'}
+
+          .field
+            %label{for: 'email'} Email
+            %input#email{type: 'text', name: 'email'}
+
+        .right
+          .field
+            %label{for: 'message'}  Message
+            %input#message{type: 'text', name: 'message'}
+
+        %input.submit{type: 'submit', value: 'Send'}
+
+    .map
+      %img.logo{src: '/images/logo.png'}
+      .info
+        %span.phone 608.602.4104
+        \/
+        %span.city Madison, WI
 
     %script{type:"text/javascript", src: "//use.typekit.net/qtt8npn.js"}
-    :javascript 
+    :javascript
       try{Typekit.load();}catch(e){}

@@ -1,33 +1,49 @@
-$green: #00B092
+$cream: #EEE8DE
+$dark-gray: #37444D
 $dark-green: #00675A
-$white: #EEE8DE
-$navy: #37424A
-$red: #A70240
-$purple: #B29FA4
-$orange: #EC7A08
 $gray: #C7C2BA
+$green: #00B092
+$navy: #37424A
+$orange: #EC7A08
+$purple: #B29FA4
+$red: #A70240
+$white: #EEE8DE
 
-@import partials/masthead
+$serif: "adelle", serif
+$sans-serif: 'DecimaNovaPro'
+
+@import compass
+
+@import partials/about
+@import partials/clients
 @import partials/contact
-* 
+@import partials/headline
+@import partials/long_haul
+@import partials/make_it_so
+@import partials/map
+@import partials/masthead
+@import partials/our_work
+@import partials/testimonials
+
+*
   box-sizing: border-box
 
 body
-  font-family: 'DecimaNovaPro'
+  font-family: $sans-serif
   font-size: 16px
   background: $green
   line-height: 1.4
 
 h1
   color: $green
-  font-family: 'DecimaNovaPro'
+  font-family: $sans-serif
   text-transform: uppercase
   text-align: center
   font-size: 20px
 
 h2, h3
   background-color: $dark-green
-  font-family: "adelle",serif
+  font-family: $serif
   font-style: normal
   font-weight: 100
   color: #fff
@@ -41,7 +57,7 @@ h3
 
 a
   text-transform: uppercase
-  font-family: 'DecimaNovaPro'
+  font-family: $sans-serif
   font-weight: bold
   text-decoration: none
   color: $navy
@@ -52,15 +68,25 @@ a
   &:after
     content: ']'
 
-.headline
-  font-family: 'DecimaNovaPro'
-  color: white
-  margin: 32px auto
-  font-size: 72px
+.section-heading
   text-align: center
-  line-height: 76px
-  max-width: 800px
-  .sub
-    font-size: 20px
-    margin-top: 18px
-    line-height: 1.4
+  font-weight: bold
+  font-size: 24px
+  letter-spacing: 3px
+  text-transform: uppercase
+
+.separator
+  +clearfix
+  border-style: solid
+  border-width: 2px 2px 0 2px
+  height: 10px
+  margin-bottom: 40px
+
+.sub-heading
+  color: white
+  font-family: $serif
+  height: 30px
+  line-height: 30px
+  margin-bottom: 35px
+  text-align: center
+  text-transform: uppercase
