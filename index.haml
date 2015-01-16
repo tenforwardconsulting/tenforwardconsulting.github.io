@@ -107,11 +107,92 @@
             .image
       .team
         .sub-heading Team
-        .bio-button Brian Samson
-        .bio-button Brett Samson
-        .bio-button Kyle Hanstad
-        .bio-button Zach Boatrite
-        .bio-button Sophia Allen
+        .bio-buttons
+          .bio-button{data: { name: 'brian' }} Brian Samson
+          .bio-button{data: { name: 'brett' }} Brett Samson
+          .bio-button{data: { name: 'kyle' }} Kyle Hanstad
+          .bio-button{data: { name: 'zach' }} Zach Boatrite
+          .bio-button{data: { name: 'sophia' }} Sophia Allen
+
+        .bio{data: { name: 'brian' }}
+          .close X
+          .bio-left
+            .name-title Brian Samson
+            %p
+              %span.name Brian
+              is the found and president of Ten Forward Consulting. Nostrud adipisicing sustainable single-origin coffee, dolore Schlitz iPhone occupy. Brunch biodiesel trust fund, deep v 8-bit four dollar toast selfies tousled aliquip pariatur street art non nesciunt laborum. Mixtape typewriter Tumblr, pork belly cillum ex aute Echo Park keytar. Pariatur Echo Park deserunt, Neutra hashtag pop-up sunt DIY ethical aute placeat sartorial freegan Tumblr.
+          .bio-right
+            %img.picture{src: '/images/brian.jpg'}
+            .email
+              Email:
+              %a{href: 'mailto:brian@tenforwardconsulting.com'}brian@tenforwardconsulting.com
+            .twitter
+              Twitter:
+              %a{href: 'https://twitter.com/samsonasu'}@samsonasu
+
+        .bio{data: { name: 'brett' }}
+          .close X
+          .bio-left
+            .name-title Brett Samson
+            %p
+              %span.name Brett
+              Nostrud adipisicing sustainable single-origin coffee, dolore Schlitz iPhone occupy. Brunch biodiesel trust fund, deep v 8-bit four dollar toast selfies tousled aliquip pariatur street art non nesciunt laborum. Mixtape typewriter Tumblr, pork belly cillum ex aute Echo Park keytar. Pariatur Echo Park deserunt, Neutra hashtag pop-up sunt DIY ethical aute placeat sartorial freegan Tumblr.
+          .bio-right
+            %img.picture{src: '/images/brett.jpg'}
+            .email
+              Email:
+              %a{href: 'mailto:brett@tenforwardconsulting.com'}brett@tenforwardconsulting.com
+            .twitter
+              Twitter:
+              %a{href: 'https://twitter.com/'}@something
+
+        .bio{data: { name: 'kyle' }}
+          .close X
+          .bio-left
+            .name-title Kyle Hanstad
+            %p
+              %span.name Kyle
+              Nostrud adipisicing sustainable single-origin coffee, dolore Schlitz iPhone occupy. Brunch biodiesel trust fund, deep v 8-bit four dollar toast selfies tousled aliquip pariatur street art non nesciunt laborum. Mixtape typewriter Tumblr, pork belly cillum ex aute Echo Park keytar. Pariatur Echo Park deserunt, Neutra hashtag pop-up sunt DIY ethical aute placeat sartorial freegan Tumblr.
+          .bio-right
+            %img.picture{src: '/images/kyle.jpg'}
+            .email
+              Email:
+              %a{href: 'mailto:kyle@tenforwardconsulting.com'}kyle@tenforwardconsulting.com
+            .twitter
+              Twitter:
+              %a{href: 'https://twitter.com/'}@something
+
+        .bio{data: { name: 'zach' }}
+          .close X
+          .bio-left
+            .name-title Zach Boatrite
+            %p
+              %span.name Zach
+              Nostrud adipisicing sustainable single-origin coffee, dolore Schlitz iPhone occupy. Brunch biodiesel trust fund, deep v 8-bit four dollar toast selfies tousled aliquip pariatur street art non nesciunt laborum. Mixtape typewriter Tumblr, pork belly cillum ex aute Echo Park keytar. Pariatur Echo Park deserunt, Neutra hashtag pop-up sunt DIY ethical aute placeat sartorial freegan Tumblr.
+          .bio-right
+            %img.picture{src: '/images/zach.jpg'}
+            .email
+              Email:
+              %a{href: 'mailto:zach@tenforwardconsulting.com'}zach@tenforwardconsulting.com
+            .twitter
+              Twitter:
+              %a{href: 'https://twitter.com/ZachBoatrite'}@ZachBoatrite
+
+        .bio{data: { name: 'sophia' }}
+          .close X
+          .bio-left
+            .name-title Sophia Allen
+            %p
+              %span.name Sophia
+              Nostrud adipisicing sustainable single-origin coffee, dolore Schlitz iPhone occupy. Brunch biodiesel trust fund, deep v 8-bit four dollar toast selfies tousled aliquip pariatur street art non nesciunt laborum. Mixtape typewriter Tumblr, pork belly cillum ex aute Echo Park keytar. Pariatur Echo Park deserunt, Neutra hashtag pop-up sunt DIY ethical aute placeat sartorial freegan Tumblr.
+          .bio-right
+            %img.picture{src: '/images/sophia.jpg'}
+            .email
+              Email:
+              %a{href: 'mailto:sophia@tenforwardconsulting.com'}sophia@tenforwardconsulting.com
+            .twitter
+              Twitter:
+              %a{href: 'https://twitter.com/'}@something
 
     .testimonials
       .section-heading Testimonials
@@ -169,5 +250,10 @@
         %span.city Madison, WI
 
     %script{type:"text/javascript", src: "//use.typekit.net/qtt8npn.js"}
+    %script{type:"text/javascript", src: "/javascript/jquery-1.11.2.min.js"}
+    %script{type:"text/javascript", src: "/javascript/team_viewer.js"}
     :javascript
       try{Typekit.load();}catch(e){}
+      $(document).ready(function() {
+        new TenForward.TeamViewer;
+      });

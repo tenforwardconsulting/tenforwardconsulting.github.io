@@ -92,10 +92,85 @@
   text-transform: uppercase;
   width: 380px;
 }
-/* line 71, ../sass/partials/_about.sass */
+/* line 70, ../sass/partials/_about.sass */
 .about .team .bio-button:hover {
   background-color: #00b092;
   color: #eee8de;
+}
+/* line 74, ../sass/partials/_about.sass */
+.about .team .bio {
+  overflow: hidden;
+  *zoom: 1;
+  background-color: #00b092;
+  color: #eee8de;
+  display: none;
+  padding: 40px;
+  position: relative;
+  text-align: left;
+}
+/* line 83, ../sass/partials/_about.sass */
+.about .team .bio .name-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 40px;
+  text-align: center;
+}
+/* line 89, ../sass/partials/_about.sass */
+.about .team .bio .name {
+  text-transform: uppercase;
+}
+/* line 92, ../sass/partials/_about.sass */
+.about .team .bio .bio-left, .about .team .bio .bio-right {
+  width: 50%;
+  max-width: 360px;
+}
+/* line 96, ../sass/partials/_about.sass */
+.about .team .bio .bio-left {
+  float: left;
+}
+/* line 98, ../sass/partials/_about.sass */
+.about .team .bio .bio-left p {
+  margin-bottom: 24px;
+}
+/* line 101, ../sass/partials/_about.sass */
+.about .team .bio .bio-right {
+  float: right;
+}
+/* line 104, ../sass/partials/_about.sass */
+.about .team .bio .bio-right .picture {
+  background-color: #c7c2ba;
+  height: 200px;
+  margin-top: 60px;
+  width: 350px;
+}
+/* line 110, ../sass/partials/_about.sass */
+.about .team .bio .bio-right .email, .about .team .bio .bio-right .twitter {
+  text-transform: uppercase;
+}
+/* line 112, ../sass/partials/_about.sass */
+.about .team .bio .bio-right .email a, .about .team .bio .bio-right .twitter a {
+  text-transform: none;
+}
+/* line 114, ../sass/partials/_about.sass */
+.about .team .bio .bio-right .email a:before, .about .team .bio .bio-right .twitter a:before {
+  content: "";
+}
+/* line 116, ../sass/partials/_about.sass */
+.about .team .bio .bio-right .email a:after, .about .team .bio .bio-right .twitter a:after {
+  content: "";
+}
+/* line 119, ../sass/partials/_about.sass */
+.about .team .bio .close {
+  position: absolute;
+  top: 4px;
+  right: 10px;
+  font-size: 42px;
+  font-weight: bold;
+}
+/* line 126, ../sass/partials/_about.sass */
+.about .team .bio .close:hover {
+  color: #37444d;
+  cursor: pointer;
 }
 
 /* line 1, ../sass/partials/_clients.sass */

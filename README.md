@@ -5,4 +5,4 @@ Ten Forward Consulting public facing site
 
 Development
 ==============================
-Run `jekyll serve` and `compass watch` in main directory
+Run `jekyll serve`, `compass watch`, and `coffee -o javascript -wc coffeescript` in main directory
