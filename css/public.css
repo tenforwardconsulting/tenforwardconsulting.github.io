@@ -271,9 +271,10 @@
 /* line 21, ../sass/partials/_contact.sass */
 .contact-us form .left, .contact-us form .right {
   float: left;
-  margin: 12px;
+  width: 50%;
+  padding: 12px;
 }
-/* line 27, ../sass/partials/_contact.sass */
+/* line 26, ../sass/partials/_contact.sass */
 .contact-us form label {
   display: block;
   font-weight: bold;
@@ -281,35 +282,31 @@
   margin-top: 8px;
   margin-bottom: 4px;
 }
-/* line 34, ../sass/partials/_contact.sass */
+/* line 33, ../sass/partials/_contact.sass */
 .contact-us form input, .contact-us form textarea {
   background-color: #37444d;
   color: white;
   border: none;
   font-size: 18px;
 }
-/* line 39, ../sass/partials/_contact.sass */
+/* line 38, ../sass/partials/_contact.sass */
 .contact-us form input[type=text], .contact-us form textarea[type=text] {
-  width: 360px;
+  width: 90%;
   height: 45px;
   padding-left: 8px;
   font-weight: 100;
 }
 /* line 44, ../sass/partials/_contact.sass */
-.contact-us form textarea {
-  padding: 8px;
-}
-/* line 47, ../sass/partials/_contact.sass */
 .contact-us form #name {
   margin-bottom: 30px;
 }
-/* line 50, ../sass/partials/_contact.sass */
+/* line 47, ../sass/partials/_contact.sass */
 .contact-us form textarea {
-  width: 360px;
+  width: 90%;
   height: 125px;
   resize: none;
 }
-/* line 55, ../sass/partials/_contact.sass */
+/* line 52, ../sass/partials/_contact.sass */
 .contact-us form input[type=submit] {
   clear: both;
   display: block;
@@ -538,11 +535,19 @@
 }
 
 /* line 28, ../sass/public.sass */
-* {
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+/* line 30, ../sass/public.sass */
+html * {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
 
-/* line 31, ../sass/public.sass */
+/* line 33, ../sass/public.sass */
 body {
   font-family: "DecimaNovaPro";
   font-size: 16px;
@@ -550,7 +555,7 @@ body {
   line-height: 1.4;
 }
 
-/* line 37, ../sass/public.sass */
+/* line 39, ../sass/public.sass */
 h1 {
   color: #00b092;
   font-family: "DecimaNovaPro";
@@ -559,7 +564,7 @@ h1 {
   font-size: 20px;
 }
 
-/* line 44, ../sass/public.sass */
+/* line 46, ../sass/public.sass */
 h2, h3 {
   background-color: #00675a;
   font-family: "adelle", serif;
@@ -572,12 +577,12 @@ h2, h3 {
   padding: 4px;
 }
 
-/* line 55, ../sass/public.sass */
+/* line 57, ../sass/public.sass */
 h3 {
   font-weight: 300;
 }
 
-/* line 58, ../sass/public.sass */
+/* line 60, ../sass/public.sass */
 a {
   text-transform: uppercase;
   font-family: "DecimaNovaPro";
@@ -585,19 +590,19 @@ a {
   text-decoration: none;
   color: #37424a;
 }
-/* line 64, ../sass/public.sass */
+/* line 66, ../sass/public.sass */
 a:hover {
   color: #eee8de;
 }
-/* line 66, ../sass/public.sass */
+/* line 68, ../sass/public.sass */
 a:before {
   content: "[";
 }
-/* line 68, ../sass/public.sass */
+/* line 70, ../sass/public.sass */
 a:after {
   content: "]";
 }
-/* line 70, ../sass/public.sass */
+/* line 72, ../sass/public.sass */
 a.inline {
   color: inherit;
   text-transform: none;
@@ -605,20 +610,20 @@ a.inline {
   font-weight: inherit;
   text-decoration: underline;
 }
-/* line 76, ../sass/public.sass */
+/* line 78, ../sass/public.sass */
 a.inline:before {
   content: none;
 }
-/* line 78, ../sass/public.sass */
+/* line 80, ../sass/public.sass */
 a.inline:after {
   content: none;
 }
-/* line 80, ../sass/public.sass */
+/* line 82, ../sass/public.sass */
 a.inline:hover {
   color: #37424a;
 }
 
-/* line 83, ../sass/public.sass */
+/* line 85, ../sass/public.sass */
 .section-heading {
   text-align: center;
   font-weight: bold;
@@ -627,7 +632,7 @@ a.inline:hover {
   text-transform: uppercase;
 }
 
-/* line 90, ../sass/public.sass */
+/* line 92, ../sass/public.sass */
 .separator {
   overflow: hidden;
   *zoom: 1;
@@ -637,7 +642,7 @@ a.inline:hover {
   margin-bottom: 40px;
 }
 
-/* line 97, ../sass/public.sass */
+/* line 99, ../sass/public.sass */
 .sub-heading {
   color: white;
   font-family: "adelle", serif;
