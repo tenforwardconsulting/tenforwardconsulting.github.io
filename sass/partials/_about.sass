@@ -67,8 +67,62 @@
       text-align: center
       text-transform: uppercase
       width: 380px
-
       &:hover
         background-color: $green
         color: $white
 
+    .bio
+      +clearfix
+      background-color: $green
+      color: $white
+      display: none
+      padding: 40px
+      position: relative
+      text-align: left
+
+      .name-title
+        text-transform: uppercase
+        font-weight: bold
+        margin-bottom: 40px
+        text-align: center
+
+      .name
+        text-transform: uppercase
+
+      .bio-left, .bio-right
+        width: 50%
+        max-width: 360px
+
+      .bio-left
+        float: left
+        p
+          margin-bottom: 24px
+
+      .bio-right
+        float: right
+
+        .picture
+          background-color: $gray
+          height: 200px
+          margin-top: 60px
+          width: 350px
+
+        .email, .twitter
+          text-transform: uppercase
+          a
+            text-transform: none
+            &:before
+              content: ''
+            &:after
+              content: ''
+
+      .close
+        position: absolute
+        top: 4px
+        right: 10px
+        font-size: 42px
+        font-weight: bold
+
+        &:hover
+          color: $dark-gray
+          cursor: pointer
