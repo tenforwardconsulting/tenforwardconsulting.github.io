@@ -67,6 +67,18 @@ a
     content: '['
   &:after
     content: ']'
+  &.inline
+    color: inherit
+    text-transform: none
+    font-family: inherit
+    font-weight: inherit
+    text-decoration: underline
+    &:before
+      content: none
+    &:after
+      content: none
+    &:hover
+      color: $navy
 
 .section-heading
   text-align: center

@@ -17,34 +17,40 @@
     border-color: $dark-gray
 
   form
+    +clearfix
     .left, .right
-      height: 208px
-
-    .left
       float: left
-    .right
-      float: right
+      margin: 12px
+
+
 
     label
       display: block
       font-weight: bold
       text-transform: uppercase
+      margin-top: 8px
       margin-bottom: 4px
 
-    input
+    input, textarea
       background-color: $dark-gray
       color: white
-
-    #name, #email
-      width: 360px
-      height: 45px
+      border: none
+      font-size: 18px
+      &[type=text]
+        width: 360px
+        height: 45px
+        padding-left: 8px
+        font-weight: 100
+    textarea
+      padding: 8px
 
     #name
       margin-bottom: 30px
 
-    #message
-      width: 415px
-      height: 180px
+    textarea
+      width: 360px
+      height: 125px
+      resize: none
 
     input[type=submit]
       clear: both
