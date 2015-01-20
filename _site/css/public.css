@@ -199,35 +199,36 @@
 }
 /* line 20, ../sass/partials/_clients.sass */
 .clients .past .logo {
-  background-color: #00b092;
   float: left;
   height: 50px;
-  margin: 4px;
+  margin: 6px 2px;
   width: 118px;
   text-align: center;
+  line-height: 50px;
 }
 /* line 27, ../sass/partials/_clients.sass */
 .clients .past .logo img {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 90%;
+  max-height: 90%;
+  vertical-align: middle;
 }
-/* line 31, ../sass/partials/_clients.sass */
+/* line 32, ../sass/partials/_clients.sass */
 .clients .future {
   float: right;
   margin-bottom: 50px;
 }
-/* line 35, ../sass/partials/_clients.sass */
+/* line 36, ../sass/partials/_clients.sass */
 .clients .feedback {
   clear: both;
   text-align: center;
 }
-/* line 39, ../sass/partials/_clients.sass */
+/* line 40, ../sass/partials/_clients.sass */
 .clients .feedback .quote {
   font-family: "adelle", serif;
   font-size: 22px;
   margin-bottom: 8px;
 }
-/* line 44, ../sass/partials/_clients.sass */
+/* line 45, ../sass/partials/_clients.sass */
 .clients .feedback .quoted {
   font-size: 0.9em;
   font-weight: bold;
