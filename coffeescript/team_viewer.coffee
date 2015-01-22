@@ -2,7 +2,7 @@ window.TenForward ||= {}
 
 class TenForward.TeamViewer
   constructor: ->
-    @initListeners()
+    #@initListeners()
 
   initListeners: ->
     $('.bio-button').on 'click', @showBio

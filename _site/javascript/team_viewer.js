@@ -3,9 +3,7 @@
   window.TenForward || (window.TenForward = {});
 
   TenForward.TeamViewer = (function() {
-    function TeamViewer() {
-      this.initListeners();
-    }
+    function TeamViewer() {}
 
     TeamViewer.prototype.initListeners = function() {
       $('.bio-button').on('click', this.showBio);
