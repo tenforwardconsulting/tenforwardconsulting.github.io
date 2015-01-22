@@ -40,137 +40,37 @@
 /* line 28, ../sass/partials/_about.sass */
 .about .services .images .image-wrapper, .about .process .images .image-wrapper {
   width: 28%;
+  height: 180px;
 }
-/* line 30, ../sass/partials/_about.sass */
-.about .services .images .image-wrapper .image, .about .process .images .image-wrapper .image {
-  background-color: #c7c2ba;
+/* line 31, ../sass/partials/_about.sass */
+.about .services .images .image-wrapper img, .about .process .images .image-wrapper img {
+  max-width: 100%;
+  max-height: 100%;
   border-radius: 2px;
+  color: #00b092;
 }
-/* line 33, ../sass/partials/_about.sass */
+/* line 36, ../sass/partials/_about.sass */
 .about .services .images .image-wrapper .subtext, .about .process .images .image-wrapper .subtext {
   font-family: "adelle", serif;
   letter-spacing: 1px;
   margin-top: 20px;
   text-transform: uppercase;
 }
-/* line 40, ../sass/partials/_about.sass */
+/* line 43, ../sass/partials/_about.sass */
 .about .services .sub-heading {
   background-color: #00b092;
 }
-/* line 42, ../sass/partials/_about.sass */
+/* line 45, ../sass/partials/_about.sass */
 .about .services .image {
   height: 250px;
 }
-/* line 46, ../sass/partials/_about.sass */
+/* line 49, ../sass/partials/_about.sass */
 .about .process .sub-heading {
   background-color: #00675a;
 }
-/* line 48, ../sass/partials/_about.sass */
+/* line 51, ../sass/partials/_about.sass */
 .about .process .image {
   height: 180px;
-}
-/* line 51, ../sass/partials/_about.sass */
-.about .team {
-  text-align: center;
-}
-/* line 54, ../sass/partials/_about.sass */
-.about .team .sub-heading {
-  background-color: #37424a;
-}
-/* line 57, ../sass/partials/_about.sass */
-.about .team .bio-button {
-  background-color: #c7c2ba;
-  border-radius: 2px;
-  color: #37444d;
-  cursor: pointer;
-  display: inline-block;
-  font-weight: bold;
-  height: 100px;
-  line-height: 100px;
-  margin: 5px;
-  text-align: center;
-  text-transform: uppercase;
-  width: 380px;
-}
-/* line 70, ../sass/partials/_about.sass */
-.about .team .bio-button:hover {
-  background-color: #00b092;
-  color: #eee8de;
-}
-/* line 74, ../sass/partials/_about.sass */
-.about .team .bio {
-  overflow: hidden;
-  *zoom: 1;
-  background-color: #00b092;
-  color: #eee8de;
-  display: none;
-  padding: 40px;
-  position: relative;
-  text-align: left;
-}
-/* line 83, ../sass/partials/_about.sass */
-.about .team .bio .name-title {
-  text-transform: uppercase;
-  font-weight: bold;
-  margin-bottom: 40px;
-  text-align: center;
-}
-/* line 89, ../sass/partials/_about.sass */
-.about .team .bio .name {
-  text-transform: uppercase;
-}
-/* line 92, ../sass/partials/_about.sass */
-.about .team .bio .bio-left, .about .team .bio .bio-right {
-  width: 50%;
-  max-width: 360px;
-}
-/* line 96, ../sass/partials/_about.sass */
-.about .team .bio .bio-left {
-  float: left;
-}
-/* line 98, ../sass/partials/_about.sass */
-.about .team .bio .bio-left p {
-  margin-bottom: 24px;
-}
-/* line 101, ../sass/partials/_about.sass */
-.about .team .bio .bio-right {
-  float: right;
-}
-/* line 104, ../sass/partials/_about.sass */
-.about .team .bio .bio-right .picture {
-  background-color: #c7c2ba;
-  height: 200px;
-  margin-top: 60px;
-  width: 350px;
-}
-/* line 110, ../sass/partials/_about.sass */
-.about .team .bio .bio-right .email, .about .team .bio .bio-right .twitter {
-  text-transform: uppercase;
-}
-/* line 112, ../sass/partials/_about.sass */
-.about .team .bio .bio-right .email a, .about .team .bio .bio-right .twitter a {
-  text-transform: none;
-}
-/* line 114, ../sass/partials/_about.sass */
-.about .team .bio .bio-right .email a:before, .about .team .bio .bio-right .twitter a:before {
-  content: "";
-}
-/* line 116, ../sass/partials/_about.sass */
-.about .team .bio .bio-right .email a:after, .about .team .bio .bio-right .twitter a:after {
-  content: "";
-}
-/* line 119, ../sass/partials/_about.sass */
-.about .team .bio .close {
-  position: absolute;
-  top: 4px;
-  right: 10px;
-  font-size: 42px;
-  font-weight: bold;
-}
-/* line 126, ../sass/partials/_about.sass */
-.about .team .bio .close:hover {
-  color: #37444d;
-  cursor: pointer;
 }
 
 /* line 1, ../sass/partials/_clients.sass */
@@ -190,14 +90,13 @@
 /* line 13, ../sass/partials/_clients.sass */
 .clients .past, .clients .future {
   color: white;
-  height: 180px;
   width: 380px;
 }
-/* line 18, ../sass/partials/_clients.sass */
+/* line 17, ../sass/partials/_clients.sass */
 .clients .past {
   float: left;
 }
-/* line 20, ../sass/partials/_clients.sass */
+/* line 19, ../sass/partials/_clients.sass */
 .clients .past .logo {
   float: left;
   height: 50px;
@@ -206,29 +105,29 @@
   text-align: center;
   line-height: 50px;
 }
-/* line 27, ../sass/partials/_clients.sass */
+/* line 26, ../sass/partials/_clients.sass */
 .clients .past .logo img {
   max-width: 90%;
   max-height: 90%;
   vertical-align: middle;
 }
-/* line 32, ../sass/partials/_clients.sass */
+/* line 31, ../sass/partials/_clients.sass */
 .clients .future {
   float: right;
   margin-bottom: 50px;
 }
-/* line 36, ../sass/partials/_clients.sass */
+/* line 35, ../sass/partials/_clients.sass */
 .clients .feedback {
   clear: both;
   text-align: center;
 }
-/* line 40, ../sass/partials/_clients.sass */
+/* line 39, ../sass/partials/_clients.sass */
 .clients .feedback .quote {
   font-family: "adelle", serif;
   font-size: 22px;
   margin-bottom: 8px;
 }
-/* line 45, ../sass/partials/_clients.sass */
+/* line 44, ../sass/partials/_clients.sass */
 .clients .feedback .quoted {
   font-size: 0.9em;
   font-weight: bold;
@@ -323,7 +222,7 @@
 .headline {
   font-family: "DecimaNovaPro";
   color: white;
-  margin: 32px auto;
+  margin: 60px auto;
   font-size: 72px;
   text-align: center;
   line-height: 76px;
@@ -349,7 +248,7 @@
 /* line 10, ../sass/partials/_long_haul.sass */
 .long-haul .title, .long-haul .supertitle {
   color: #37424a;
-  text-shadow: 0 1px white;
+  text-shadow: 0 0 2px white;
 }
 /* line 14, ../sass/partials/_long_haul.sass */
 .long-haul .title {
@@ -364,6 +263,7 @@
 .long-haul .subtext {
   color: white;
   font-family: "adelle", serif;
+  text-shadow: 0 0 3px black;
 }
 
 /* line 1, ../sass/partials/_make_it_so.sass */
@@ -520,6 +420,7 @@
   width: 380px;
   height: 180px;
   font-family: "adelle", serif;
+  font-weight: 100;
 }
 /* line 22, ../sass/partials/_testimonials.sass */
 .testimonials .testimonial .quoted {
@@ -534,20 +435,126 @@
   font-size: 0.7em;
 }
 
-/* line 28, ../sass/public.sass */
+/* line 1, ../sass/partials/_team.sass */
+.team {
+  background-color: #eee8de;
+  padding: 60px 40px;
+  text-align: center;
+}
+/* line 6, ../sass/partials/_team.sass */
+.team .sub-heading {
+  background-color: #37424a;
+}
+/* line 9, ../sass/partials/_team.sass */
+.team .bio-button {
+  background-color: #c7c2ba;
+  border-radius: 2px;
+  color: #37444d;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  height: 100px;
+  line-height: 100px;
+  margin: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 380px;
+}
+/* line 22, ../sass/partials/_team.sass */
+.team .bio-button:hover {
+  background-color: #00b092;
+  color: #eee8de;
+}
+/* line 26, ../sass/partials/_team.sass */
+.team .bio {
+  overflow: hidden;
+  *zoom: 1;
+  background-color: #00b092;
+  color: #eee8de;
+  display: none;
+  padding: 40px;
+  position: relative;
+  text-align: left;
+}
+/* line 35, ../sass/partials/_team.sass */
+.team .bio .name-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 40px;
+  text-align: center;
+}
+/* line 41, ../sass/partials/_team.sass */
+.team .bio .name {
+  text-transform: uppercase;
+}
+/* line 44, ../sass/partials/_team.sass */
+.team .bio .bio-left, .team .bio .bio-right {
+  width: 50%;
+  max-width: 360px;
+}
+/* line 48, ../sass/partials/_team.sass */
+.team .bio .bio-left {
+  float: left;
+}
+/* line 50, ../sass/partials/_team.sass */
+.team .bio .bio-left p {
+  margin-bottom: 24px;
+}
+/* line 53, ../sass/partials/_team.sass */
+.team .bio .bio-right {
+  float: right;
+}
+/* line 56, ../sass/partials/_team.sass */
+.team .bio .bio-right .picture {
+  background-color: #c7c2ba;
+  height: 200px;
+  margin-top: 60px;
+  width: 350px;
+}
+/* line 62, ../sass/partials/_team.sass */
+.team .bio .bio-right .email, .team .bio .bio-right .twitter {
+  text-transform: uppercase;
+}
+/* line 64, ../sass/partials/_team.sass */
+.team .bio .bio-right .email a, .team .bio .bio-right .twitter a {
+  text-transform: none;
+}
+/* line 66, ../sass/partials/_team.sass */
+.team .bio .bio-right .email a:before, .team .bio .bio-right .twitter a:before {
+  content: "";
+}
+/* line 68, ../sass/partials/_team.sass */
+.team .bio .bio-right .email a:after, .team .bio .bio-right .twitter a:after {
+  content: "";
+}
+/* line 71, ../sass/partials/_team.sass */
+.team .bio .close {
+  position: absolute;
+  top: 4px;
+  right: 10px;
+  font-size: 42px;
+  font-weight: bold;
+}
+/* line 78, ../sass/partials/_team.sass */
+.team .bio .close:hover {
+  color: #37444d;
+  cursor: pointer;
+}
+
+/* line 29, ../sass/public.sass */
 html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-/* line 30, ../sass/public.sass */
+/* line 31, ../sass/public.sass */
 html * {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
   box-sizing: inherit;
 }
 
-/* line 33, ../sass/public.sass */
+/* line 34, ../sass/public.sass */
 body {
   font-family: "DecimaNovaPro";
   font-size: 16px;
@@ -555,7 +562,7 @@ body {
   line-height: 1.4;
 }
 
-/* line 39, ../sass/public.sass */
+/* line 40, ../sass/public.sass */
 h1 {
   color: #00b092;
   font-family: "DecimaNovaPro";
@@ -564,7 +571,7 @@ h1 {
   font-size: 20px;
 }
 
-/* line 46, ../sass/public.sass */
+/* line 47, ../sass/public.sass */
 h2, h3 {
   background-color: #00675a;
   font-family: "adelle", serif;
@@ -577,12 +584,12 @@ h2, h3 {
   padding: 4px;
 }
 
-/* line 57, ../sass/public.sass */
+/* line 58, ../sass/public.sass */
 h3 {
   font-weight: 300;
 }
 
-/* line 60, ../sass/public.sass */
+/* line 61, ../sass/public.sass */
 a {
   text-transform: uppercase;
   font-family: "DecimaNovaPro";
@@ -590,19 +597,19 @@ a {
   text-decoration: none;
   color: #37424a;
 }
-/* line 66, ../sass/public.sass */
+/* line 67, ../sass/public.sass */
 a:hover {
   color: #eee8de;
 }
-/* line 68, ../sass/public.sass */
+/* line 69, ../sass/public.sass */
 a:before {
   content: "[";
 }
-/* line 70, ../sass/public.sass */
+/* line 71, ../sass/public.sass */
 a:after {
   content: "]";
 }
-/* line 72, ../sass/public.sass */
+/* line 73, ../sass/public.sass */
 a.inline {
   color: inherit;
   text-transform: none;
@@ -610,20 +617,20 @@ a.inline {
   font-weight: inherit;
   text-decoration: underline;
 }
-/* line 78, ../sass/public.sass */
+/* line 79, ../sass/public.sass */
 a.inline:before {
   content: none;
 }
-/* line 80, ../sass/public.sass */
+/* line 81, ../sass/public.sass */
 a.inline:after {
   content: none;
 }
-/* line 82, ../sass/public.sass */
+/* line 83, ../sass/public.sass */
 a.inline:hover {
   color: #37424a;
 }
 
-/* line 85, ../sass/public.sass */
+/* line 86, ../sass/public.sass */
 .section-heading {
   text-align: center;
   font-weight: bold;
@@ -632,7 +639,7 @@ a.inline:hover {
   text-transform: uppercase;
 }
 
-/* line 92, ../sass/public.sass */
+/* line 93, ../sass/public.sass */
 .separator {
   overflow: hidden;
   *zoom: 1;
@@ -642,7 +649,7 @@ a.inline:hover {
   margin-bottom: 40px;
 }
 
-/* line 99, ../sass/public.sass */
+/* line 100, ../sass/public.sass */
 .sub-heading {
   color: white;
   font-family: "adelle", serif;
