@@ -1,6 +1,5 @@
 .team
   background-color: $cream
-  padding: 60px 40px
   text-align: center
 
   .sub-heading
@@ -78,3 +77,11 @@
       &:hover
         color: $dark-gray
         cursor: pointer
+  @media screen and (max-width: 950px)
+    .bio-button
+      width: 48%
+      margin: 6px 0
+  @media screen and (max-width: 640px)
+    .bio-button
+      width: 100%
+      display: block

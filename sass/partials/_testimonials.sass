@@ -1,7 +1,6 @@
 .testimonials
   +clearfix
   background-color: $navy
-  padding: 60px 80px
   text-align: center
   font-weight: 100
 
@@ -12,11 +11,11 @@
 
   .testimonial
     text-align: left
-    margin: 0 50px 50px 50px
-    display: inline-block
+    margin-top: 20px
+    padding: 0 5%
+    float: left
     color: white
-    width: 380px
-    height: 180px
+    width: 50%
     font-family: $serif
     font-weight: 100
     .quoted
@@ -27,3 +26,8 @@
       font-size: 1.2em
       span.business
         font-size: .7em
+
+  @media screen and (max-width: 850px)
+    .testimonial
+      width: 100%
+      display: block

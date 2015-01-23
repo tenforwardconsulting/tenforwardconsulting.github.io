@@ -1,7 +1,6 @@
 .clients
   background-color: $dark-green
   color: $green
-  padding: 60px 80px
 
   .separator
     border-color: $green
@@ -46,3 +45,13 @@
       font-weight: bold
       letter-spacing: 1px
       text-transform: uppercase
+
+  @media screen and (max-width: 950px)
+    .past, .future
+      display: block
+      width: 100%
+      .logo
+        width: 50%
+        margin: 8px 0
+        img
+          max-width: 80%

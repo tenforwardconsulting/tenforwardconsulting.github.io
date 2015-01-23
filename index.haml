@@ -3,7 +3,8 @@
 !!!
 %html
   %head
-    %meta{content: "text/html; charset=utf-8", "http-equiv" => "Content-Type"}/
+    %meta{content: "text/html; charset=utf-8", "http-equiv" => "Content-Type"}
+    %meta{name: "viewport", content: "width: device-width, initial-scale: 1.0"}
     %title Ten Forward Consulting - Ruby on Rails, HTML5 and Mobile experts
     %meta{name: 'description', content: "Ten Forward Consulting's expert team provides agile web and mobile consulting and development to startups, Fortune 500s and everyone in between."}
     %link{href: "css/fonts.css", rel: "stylesheet", type: "text/css"}
@@ -26,7 +27,7 @@
         Our experts bring your vision to life through high quality web and mobile applications
         focused on your users' experience and your business's goals.
 
-    .clients
+    %section.clients
       .section-heading Clients
       .separator
       .past
@@ -65,7 +66,7 @@
       .supertitle Long Haul.
       .subtext After all, we've made it through Wisconsin winters.
 
-    / .our-work
+    / %section.our-work
     /   .section-heading Work
     /   .separator
     /   .logos
@@ -84,7 +85,7 @@
 
 
 
-    .about
+    %section.about
       .section-heading About
       .separator
       .services
@@ -123,7 +124,7 @@
       .supertitle Make It So.
       .subtext Your future is in good hands.
 
-    .team
+    %section.team
       .section-heading The Ten Forward Crew
       .separator
       .bio-buttons
@@ -213,7 +214,7 @@
             Twitter:
             %a{href: 'https://twitter.com/'}@something
 
-    .testimonials
+    %section.testimonials
       .section-heading Testimonials
       .separator
 
@@ -241,7 +242,7 @@
           Anthony Kua
           %span.business / Tillster
 
-    .contact-us#contact
+    %section.contact-us#contact
       .section-heading Get in Touch
       .separator
 

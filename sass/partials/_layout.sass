@@ -1,0 +1,88 @@
+
+html
+  +box-sizing(border-box)
+  *
+    +box-sizing(inherit)
+
+body
+  font-family: $sans-serif
+  font-size: 16px
+  background: $green
+  line-height: 1.4
+
+h1
+  color: $green
+  font-family: $sans-serif
+  text-transform: uppercase
+  text-align: center
+  font-size: 20px
+
+h2, h3
+  background-color: $dark-green
+  font-family: $serif
+  font-style: normal
+  font-weight: 100
+  color: #fff
+  font-size: 18px
+  text-align: center
+  text-transform: uppercase
+  padding: 4px
+
+h3
+  font-weight: 300
+
+a
+  text-transform: uppercase
+  font-family: $sans-serif
+  font-weight: bold
+  text-decoration: none
+  color: $navy
+  &:hover
+    color: $white
+  &:before
+    content: '['
+  &:after
+    content: ']'
+  &.inline
+    color: inherit
+    text-transform: none
+    font-family: inherit
+    font-weight: inherit
+    text-decoration: underline
+    &:before
+      content: none
+    &:after
+      content: none
+    &:hover
+      color: $navy
+
+section
+  padding: 60px 80px
+  +clearfix
+
+.section-heading
+  text-align: center
+  font-weight: bold
+  font-size: 24px
+  letter-spacing: 3px
+  text-transform: uppercase
+
+.separator
+  +clearfix
+  border-style: solid
+  border-width: 2px 2px 0 2px
+  height: 10px
+  margin-bottom: 40px
+
+.sub-heading
+  color: white
+  font-family: $serif
+  height: 30px
+  line-height: 30px
+  margin-bottom: 35px
+  text-align: center
+  text-transform: uppercase
+
+@media screen and (max-width: 640px)
+  section
+    padding: 20px 10px
