@@ -124,10 +124,43 @@ section {
   text-transform: uppercase;
 }
 
+/* line 85, ../sass/partials/_layout.sass */
+.title {
+  font-size: 56px;
+}
+
+/* line 87, ../sass/partials/_layout.sass */
+.supertitle {
+  font-size: 68px;
+  text-transform: uppercase;
+}
+
 @media screen and (max-width: 640px) {
-  /* line 87, ../sass/partials/_layout.sass */
+  /* line 92, ../sass/partials/_layout.sass */
+  .title {
+    font-size: 48px;
+  }
+
+  /* line 94, ../sass/partials/_layout.sass */
   section {
     padding: 20px 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  /* line 97, ../sass/partials/_layout.sass */
+  .title {
+    font-size: 36px;
+  }
+}
+@media screen and (max-width: 380px) {
+  /* line 100, ../sass/partials/_layout.sass */
+  .title {
+    font-size: 28px;
+  }
+
+  /* line 102, ../sass/partials/_layout.sass */
+  .supertitle {
+    font-size: 56px;
   }
 }
 /* line 1, ../sass/partials/_about.sass */
@@ -413,19 +446,18 @@ section {
   text-shadow: 0 0 2px white;
 }
 /* line 14, ../sass/partials/_long_haul.sass */
-.long-haul .title {
-  font-size: 56px;
-}
-/* line 17, ../sass/partials/_long_haul.sass */
-.long-haul .supertitle {
-  font-size: 68px;
-  text-transform: uppercase;
-}
-/* line 21, ../sass/partials/_long_haul.sass */
 .long-haul .subtext {
   color: white;
   font-family: "adelle", serif;
   text-shadow: 0 0 3px black;
+}
+@media screen and (max-width: 640px) {
+  /* line 1, ../sass/partials/_long_haul.sass */
+  .long-haul {
+    background-size: cover;
+    height: auto;
+    padding-bottom: 80px;
+  }
 }
 
 /* line 1, ../sass/partials/_make_it_so.sass */
@@ -440,15 +472,6 @@ section {
   text-shadow: 0 1px black;
 }
 /* line 10, ../sass/partials/_make_it_so.sass */
-.make-it-so .title {
-  font-size: 56px;
-}
-/* line 13, ../sass/partials/_make_it_so.sass */
-.make-it-so .supertitle {
-  font-size: 68px;
-  text-transform: uppercase;
-}
-/* line 17, ../sass/partials/_make_it_so.sass */
 .make-it-so .subtext {
   color: white;
   font-family: "adelle", serif;
