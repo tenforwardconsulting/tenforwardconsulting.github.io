@@ -165,7 +165,11 @@
             </p>
           </div>
           <div class='bio-right'>
-            <img class='picture' src='/images/brian.jpg'>
+            <!-- %img.picture{src: '/images/brian.jpg'} -->
+            <video autoplay='autoplay'>
+              <!-- %source{src: "videos/brian.mp4", type:"video/mp4"} -->
+              <source src='videos/brian.mov' type='video/quicktime'></source>
+            </video>
             <div class='email'>
               Email:
               <a href='mailto:brian@tenforwardconsulting.com'>brian@tenforwardconsulting.com</a>
@@ -358,5 +362,13 @@
         new TenForward.TeamViewer;
       });
     </script>
+    <script>
   </body>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-43222970-6', 'auto');
+  ga('send', 'pageview');
 </html>
+</script>

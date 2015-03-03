@@ -145,7 +145,10 @@
               %span.name Brian
               is the found and president of Ten Forward Consulting. Nostrud adipisicing sustainable single-origin coffee, dolore Schlitz iPhone occupy. Brunch biodiesel trust fund, deep v 8-bit four dollar toast selfies tousled aliquip pariatur street art non nesciunt laborum. Mixtape typewriter Tumblr, pork belly cillum ex aute Echo Park keytar. Pariatur Echo Park deserunt, Neutra hashtag pop-up sunt DIY ethical aute placeat sartorial freegan Tumblr.
           .bio-right
-            %img.picture{src: '/images/brian.jpg'}
+            / %img.picture{src: '/images/brian.jpg'}
+            %video{autoplay: 'autoplay'}
+              / %source{src: "videos/brian.mp4", type:"video/mp4"}
+              %source{src: "videos/brian.mov", type:"video/quicktime"}
             .email
               Email:
               %a{href: 'mailto:brian@tenforwardconsulting.com'}brian@tenforwardconsulting.com
@@ -286,7 +289,7 @@
         %a{href: 'mailto:info@tenforwardconsulting.com'} info@tenforwardconsulting.com
         %a{href: 'tel:6086205104'} 608.620.5104
         %br
-        %span.city Madison, WI
+        %span.city 505 S Rosa Rd #225, Madison, WI
 
     %script{type:"text/javascript", src: "//use.typekit.net/qtt8npn.js"}
     %script{type:"text/javascript", src: "/javascript/jquery-1.11.2.min.js"}
@@ -296,3 +299,4 @@
       $(document).ready(function() {
         new TenForward.TeamViewer;
       });
+    {% include google_analytics.html %}
