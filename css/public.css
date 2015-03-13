@@ -660,6 +660,10 @@ section .section-content {
   color: #eee8de;
 }
 /* line 25, ../sass/partials/_team.sass */
+.team .quote {
+  font-style: italic;
+}
+/* line 28, ../sass/partials/_team.sass */
 .team .bio {
   overflow: hidden;
   *zoom: 1;
@@ -670,58 +674,50 @@ section .section-content {
   position: relative;
   text-align: left;
 }
-/* line 34, ../sass/partials/_team.sass */
+/* line 37, ../sass/partials/_team.sass */
 .team .bio .name-title {
   text-transform: uppercase;
   font-weight: bold;
   margin-bottom: 40px;
   text-align: center;
 }
-/* line 40, ../sass/partials/_team.sass */
+/* line 43, ../sass/partials/_team.sass */
 .team .bio .name {
   text-transform: uppercase;
 }
-/* line 43, ../sass/partials/_team.sass */
-.team .bio .bio-left, .team .bio .bio-right {
-  width: 50%;
-  max-width: 360px;
-}
 /* line 47, ../sass/partials/_team.sass */
-.team .bio .bio-left {
-  float: left;
-}
-/* line 49, ../sass/partials/_team.sass */
 .team .bio .bio-left p {
   margin-bottom: 24px;
 }
-/* line 52, ../sass/partials/_team.sass */
+/* line 50, ../sass/partials/_team.sass */
 .team .bio .bio-right {
   float: right;
+  margin: 0 0 50px 50px;
 }
-/* line 55, ../sass/partials/_team.sass */
+/* line 54, ../sass/partials/_team.sass */
 .team .bio .bio-right .picture {
   background-color: #c7c2ba;
-  height: 200px;
   margin-top: 60px;
-  width: 350px;
+  max-height: 350px;
+  max-width: 350px;
 }
-/* line 61, ../sass/partials/_team.sass */
-.team .bio .bio-right .email, .team .bio .bio-right .twitter {
+/* line 60, ../sass/partials/_team.sass */
+.team .bio .bio-right .social {
   text-transform: uppercase;
 }
-/* line 63, ../sass/partials/_team.sass */
-.team .bio .bio-right .email a, .team .bio .bio-right .twitter a {
+/* line 62, ../sass/partials/_team.sass */
+.team .bio .bio-right .social a {
   text-transform: none;
 }
-/* line 65, ../sass/partials/_team.sass */
-.team .bio .bio-right .email a:before, .team .bio .bio-right .twitter a:before {
+/* line 64, ../sass/partials/_team.sass */
+.team .bio .bio-right .social a:before {
   content: "";
 }
-/* line 67, ../sass/partials/_team.sass */
-.team .bio .bio-right .email a:after, .team .bio .bio-right .twitter a:after {
+/* line 66, ../sass/partials/_team.sass */
+.team .bio .bio-right .social a:after {
   content: "";
 }
-/* line 70, ../sass/partials/_team.sass */
+/* line 69, ../sass/partials/_team.sass */
 .team .bio .close {
   position: absolute;
   top: 4px;
@@ -729,20 +725,20 @@ section .section-content {
   font-size: 42px;
   font-weight: bold;
 }
-/* line 77, ../sass/partials/_team.sass */
+/* line 76, ../sass/partials/_team.sass */
 .team .bio .close:hover {
   color: #37444d;
   cursor: pointer;
 }
 @media screen and (max-width: 950px) {
-  /* line 81, ../sass/partials/_team.sass */
+  /* line 80, ../sass/partials/_team.sass */
   .team .bio-button {
     width: 48%;
     margin: 6px 0;
   }
 }
 @media screen and (max-width: 640px) {
-  /* line 85, ../sass/partials/_team.sass */
+  /* line 84, ../sass/partials/_team.sass */
   .team .bio-button {
     width: 100%;
     display: block;
