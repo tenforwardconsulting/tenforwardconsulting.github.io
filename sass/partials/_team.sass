@@ -22,6 +22,9 @@
       background-color: $green
       color: $white
 
+  .quote
+    font-style: italic
+
   .bio
     +clearfix
     background-color: $green
@@ -40,25 +43,21 @@
     .name
       text-transform: uppercase
 
-    .bio-left, .bio-right
-      width: 50%
-      max-width: 360px
-
     .bio-left
-      float: left
       p
         margin-bottom: 24px
 
     .bio-right
       float: right
+      margin: 0 0 50px 50px
 
       .picture
         background-color: $gray
-        height: 200px
         margin-top: 60px
-        width: 350px
+        max-height: 350px
+        max-width: 350px
 
-      .email, .twitter
+      .social
         text-transform: uppercase
         a
           text-transform: none
