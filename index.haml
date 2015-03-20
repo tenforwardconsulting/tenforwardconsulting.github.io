@@ -4,7 +4,7 @@
 %html
   %head
     %meta{content: "text/html; charset=utf-8", "http-equiv" => "Content-Type"}
-    %meta{name: "viewport", content: "width: device-width, initial-scale: 1.0"}
+    %meta{name: "viewport", content: "width=device-width, initial-scale=1.0"}
     %title Ten Forward Consulting - Ruby on Rails, HTML5 and Mobile experts
     %meta{name: 'description', content: "Ten Forward Consulting's expert team provides agile web and mobile consulting and development to startups, Fortune 500s and everyone in between."}
     %link{href: "css/fonts.css", rel: "stylesheet", type: "text/css"}
@@ -67,23 +67,81 @@
       .supertitle Long Haul.
       .subtext After all, we've made it through Wisconsin winters.
 
-    / %section.our-work
-    /   .section-heading Work
-    /   .separator
-    /   .logos
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-    /     .logo
-
+    %section.our-work
+      .section-heading Work
+      .separator
+      .work-items
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/mobiledoorman.jpg');"}
+          .description
+            %h2 Mobile Doorman
+            %p Changing the way residents interact with their apartment building management from hyper-local communication to service requests and rent payment.
+            %a.case-study{href: "/assets/Mobile%20Doorman.pdf", target: "_blank"} Read Case Study
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/ebc.jpg');"}
+          .description
+            %h2 EBC Flex
+            %p Employee Benefits Corporation brought us in to oversee their mobile application used by their customers to submit claims on their Flex Spending plans
+            %a.case-study{href: "/assets/Employee%20Benefits%20Corporation.pdf", target: "_blank"} Read case study
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/minutemenu.jpg');"}
+          .description
+            %h2 Minute Menu Systems
+            %p We worked with MinuteMenu to improve and maintain 3 PhoneGap/Sencah Touch based mobile applications.
+            / %a.case-study{href: "#"} Read case study
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/bkdelivers.jpg');"}
+          .description
+            %h2 Burger King
+            %p BK had it their way when they engaged Ten Forward to help them meet a critical deadline for a new online ordering platform.
+            %a.case-study{href: "http://www.bkdelivers.com"} Visit the site
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/crave.jpg');"}
+          .description
+            %h2 Crave
+            %p This Silicon Valley startup worked to flip the way we decide on what and where to eat.
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/festbuddy.jpg');"}
+          .description
+            %h2 FestBuddy
+            %p Changing the way festival events are organized, planned, and experienced with a full stack mobile and web platform.
+            %a.case-study{href: "http://www.festbuddy.com", target: "_blank"} Visit the site
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/meetingmetropolis.jpg');"}
+          .description
+            %h2 Meeting Metropolis
+            %p We took the conference mobile - the 2012 Meeting Metroplis app made it easy for attendees to find sessions and share their experience on the go.
+            %a.case-study{href: "#"} Read case study
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/pumpitup.jpg');"}
+          .description
+            %h2 Pump It Up Party
+            %p Pump It Up is where your imagination comes to play, and our app makes brings locations, schedules, and special events right to your fingertips.
+            %a.case-study{href: "https://play.google.com/store/apps/details?id=com.pumpitupparty.storeapp&hl=en", target: "_blank"} View on Google Play
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/threadflip.jpg');"}
+          .description
+            %h2 Threadflip
+            %p A new dashboard, that you can take with you on the go.  We worked with Threadflip to create a mobile responsive one-stop site for sellers to do everything they need.
+            %a.case-study{href: "http://www.threadflip.com", target: "_blank"} Visit the Site
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/wellbe.jpg');"}
+          .description
+            %h2 Wellbe
+            %p Patient-Centered Solutions for the Whole Care Continuum.  We helped Wellbe get to the next level with agile process consulting and expert Ruby on Rails development.
+            / %a.case-study{href: "#"} Read case study
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/virtualbadge.jpg');"}
+          .description
+            %h2 Virtual Badge
+            %p Virtual Badge is a platform that utilizes mobile devices to increase security and intelligence for on-site personnel management.
+            / %a.case-study{href: "#"} Read case study
+        .work
+          .screenshot{style: "background-image:url('images/screenshots/1stgig.jpg');"}
+          .description
+            %h2 1stGig
+            %p Turn a connection into a career.  We built 1stGig's platform from the ground up to connect recent college grads with their first professional careers.
+            %a.case-study{href: "http://www.1stgig.com", target: "_blank"} Visit the site
 
 
     %section.about

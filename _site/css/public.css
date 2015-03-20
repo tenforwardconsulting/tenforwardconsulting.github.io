@@ -248,6 +248,14 @@ section .section-content {
   .about .image-wrapper {
     height: 90px !important;
   }
+  /* line 56, ../sass/partials/_about.sass */
+  .about .image-wrapper .subtext {
+    font-size: 12px;
+  }
+  /* line 58, ../sass/partials/_about.sass */
+  .about .image-wrapper img {
+    height: 75px;
+  }
 }
 
 /* line 1, ../sass/partials/_clients.sass */
@@ -571,18 +579,114 @@ section .section-content {
   border-color: #37444d;
 }
 /* line 9, ../sass/partials/_our_work.sass */
-.our-work .logos {
-  text-align: center;
+.our-work .work-items {
+  overflow: hidden;
+  *zoom: 1;
 }
 /* line 12, ../sass/partials/_our_work.sass */
-.our-work .logos .logo {
+.our-work .work-items .work {
   background-color: #c7c2ba;
-  display: inline-block;
-  height: 230px;
-  margin: 2.5px;
-  width: 240px;
+  float: left;
+  height: 250px;
+  margin-bottom: 2.5px;
+  width: 25%;
+  position: relative;
+}
+/* line 19, ../sass/partials/_our_work.sass */
+.our-work .work-items .work .screenshot, .our-work .work-items .work .description {
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+/* line 28, ../sass/partials/_our_work.sass */
+.our-work .work-items .work .screenshot {
+  background-size: cover;
+  background-position: center;
+}
+/* line 31, ../sass/partials/_our_work.sass */
+.our-work .work-items .work .description {
+  -webkit-box-shadow: inset 3px 3px 3px #d05105;
+  -moz-box-shadow: inset 3px 3px 3px #d05105;
+  box-shadow: inset 3px 3px 3px #d05105;
+  background-color: #eb7a07;
+  opacity: 0;
+}
+/* line 35, ../sass/partials/_our_work.sass */
+.our-work .work-items .work .description h2 {
+  background: transparent;
+}
+/* line 37, ../sass/partials/_our_work.sass */
+.our-work .work-items .work .description p {
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+/* line 41, ../sass/partials/_our_work.sass */
+.our-work .work-items .work .description .case-study {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+}
+/* line 48, ../sass/partials/_our_work.sass */
+.our-work .work-items .work:hover img.screenshot {
+  opacity: 0;
+}
+/* line 50, ../sass/partials/_our_work.sass */
+.our-work .work-items .work:hover .description {
+  opacity: 1;
 }
 
+@media screen and (max-width: 1080px) {
+  /* line 55, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work {
+    width: 33%;
+  }
+}
+@media screen and (max-width: 800px) {
+  /* line 60, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 640px) {
+  /* line 65, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work {
+    width: 100%;
+    height: 200px;
+  }
+  /* line 68, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work .description, .our-work .work-items .work .screenshot {
+    position: static;
+    float: left;
+    width: 50%;
+    opacity: 1;
+  }
+  /* line 73, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work .description {
+    position: relative;
+  }
+  /* line 75, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work .description p {
+    padding: 6px;
+    font-size: 13px;
+    text-align: left;
+  }
+  /* line 79, ../sass/partials/_our_work.sass */
+  .our-work .work-items .work .description .case-study {
+    font-size: 13px;
+    right: 0;
+    left: inherit;
+  }
+}
 /* line 1, ../sass/partials/_testimonials.sass */
 .testimonials {
   overflow: hidden;

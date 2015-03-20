@@ -6,12 +6,77 @@
   .separator
     border-color: $dark-gray
 
-  .logos
-    text-align: center
+  .work-items
+    +clearfix
 
-    .logo
+    .work
       background-color: $gray
-      display: inline-block
-      height: 230px
-      margin: 2.5px
-      width: 240px
+      float: left
+      height: 250px
+      margin-bottom: 2.5px
+      width: 25%
+      position: relative
+      .screenshot, .description
+        +transition(opacity .5s)
+        bottom: 0
+        left: 0
+        position: absolute
+        right: 0
+        top: 0
+        width: 100%
+        height: 100%
+      .screenshot
+        background-size: cover
+        background-position: center
+      .description
+        +box-shadow(inset 3px 3px 3px #d05105)
+        background-color: $orange
+        opacity: 0
+        h2
+          background: transparent
+        p
+          color: white
+          padding: 16px
+          text-align: center
+        .case-study
+          position: absolute
+          bottom: 0px
+          width: 100%
+          text-align: center
+
+      &:hover
+        img.screenshot
+          opacity: 0
+        .description
+          opacity: 1
+
+@media screen and (max-width: 1080px)
+  .our-work .work-items
+    .work
+      width: 33%
+
+@media screen and (max-width: 800px)
+  .our-work .work-items
+    .work
+      width: 50%
+
+@media screen and (max-width: 640px)
+  .our-work .work-items
+    .work
+      width: 100%
+      height: 200px
+      .description, .screenshot
+        position: static
+        float: left
+        width: 50%
+        opacity: 1
+      .description
+        position: relative
+        p
+          padding: 6px
+          font-size: 13px
+          text-align: left
+        .case-study
+          font-size: 13px
+          right: 0
+          left: inherit
