@@ -40,7 +40,7 @@ end
 desc "Recompile Sass"
 task :recompile_sass do
   puts "\n## Forcing Sass to recompile"
-  status = system("touch -m assets/scss/styles.scss")
+  status = system("touch -m sass/public.sass")
   puts status ? "Success" : "Failed"
 end
 
@@ -49,7 +49,7 @@ namespace :build do
   task :dev => :recompile_sass do
     puts "\n##  Starting Jekyll and recompiling Sass with source map"
     pids = [
-      spawn("sass --sourcemap --watch assets/scss/styles.scss:assets/css/styles.css"),
+      spawn("sass --sourcemap --watch sass/public.sass:css/public.css"),
       spawn("jekyll serve -w")
     ]
 
